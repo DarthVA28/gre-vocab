@@ -1,1832 +1,2096 @@
 [
   {
-    "word": "aberrant",
-    "definition": "markedly different from an accepted norm",
-    "hint": "The unusually high reading was aberrant and prompted the technicians to rerun the test.",
-    "word_id": 6
+    "word": "aberration",
+    "definition": "a departure from what is normal or expected",
+    "hint": "The sudden snowfall in July was a strange aberration in the region's usually mild summer weather.",
+    "word_id": 1
   },
   {
-    "word": "abeyance",
-    "definition": "temporary cessation or suspension",
-    "hint": "The negotiations were placed in abeyance until both sides could review the proposal.",
-    "word_id": 11
-  },
-  {
-    "word": "abscond",
-    "definition": "run away, often taking something or somebody along",
-    "hint": "The accountant vanished overnight after secretly taking the company funds and deciding to abscond.",
-    "word_id": 16
-  },
-  {
-    "word": "abstemious",
-    "definition": "marked by temperance in indulgence",
-    "hint": "Even at celebrations, she was remarkably abstemious and rarely drank more than a single glass.",
-    "word_id": 21
-  },
-  {
-    "word": "admonish",
-    "definition": "scold or reprimand; take to task",
-    "hint": "The principal had to admonish the students for repeatedly ignoring the safety rules.",
-    "word_id": 26
-  },
-  {
-    "word": "aesthetic",
-    "definition": "characterized by an appreciation of beauty or good taste",
-    "hint": "The gallery hired her for her strong aesthetic sense and eye for design.",
-    "word_id": 36
-  },
-  {
-    "word": "aggregate",
-    "definition": "a sum total of many heterogeneous things taken together",
-    "hint": "The report presents the aggregate cost of transportation, labor, and materials.",
-    "word_id": 41
-  },
-  {
-    "word": "alacrity",
-    "definition": "liveliness and eagerness",
-    "hint": "She accepted the difficult assignment with surprising alacrity and got started immediately.",
-    "word_id": 46
-  },
-  {
-    "word": "amalgamate",
-    "definition": "bring or combine together or with something else",
-    "hint": "The two companies decided to amalgamate their operations into a single organization.",
-    "word_id": 56
-  },
-  {
-    "word": "ambiguous",
-    "definition": "having more than one possible meaning",
-    "hint": "The wording of the contract was ambiguous, so each side interpreted it differently.",
-    "word_id": 61
-  },
-  {
-    "word": "ambivalence",
-    "definition": "mixed feelings or emotions",
-    "hint": "He felt ambivalence about moving abroad: excited by the opportunity but sad to leave home.",
-    "word_id": 66
-  },
-  {
-    "word": "ameliorate",
-    "definition": "make better",
-    "hint": "The new treatment was designed to ameliorate the patient’s chronic pain.",
-    "word_id": 71
-  },
-  {
-    "word": "anachronism",
-    "definition": "locating something at a time when it couldn't have existed",
-    "hint": "The movie contains an obvious anachronism: a modern smartphone appears in a scene set in 1920.",
-    "word_id": 76
-  },
-  {
-    "word": "analogous",
-    "definition": "similar or equivalent in some respects",
-    "hint": "The two experiments produced analogous results despite using different methods.",
-    "word_id": 81
-  },
-  {
-    "word": "anomalous",
-    "definition": "deviating from the general or common order or type",
-    "hint": "The unusually high reading was anomalous and prompted the technicians to rerun the test.",
-    "word_id": 91
-  },
-  {
-    "word": "antipathy",
-    "definition": "a feeling of intense dislike",
-    "hint": "She felt a strong antipathy toward the company after it had treated her family unfairly.",
-    "word_id": 96
-  },
-  {
-    "word": "apprise",
-    "definition": "inform somebody of something",
-    "hint": "The manager called to apprise the staff of the change in schedule.",
-    "word_id": 111
-  },
-  {
-    "word": "approbation",
-    "definition": "official acceptance or agreement",
-    "hint": "The proposal received formal approbation from the board after several revisions.",
-    "word_id": 116
-  },
-  {
-    "word": "appropriate",
-    "definition": "suitable for a particular person, place, or situation",
-    "hint": "Please choose clothing that is appropriate for a formal interview.",
-    "word_id": 121
-  },
-  {
-    "word": "artless",
-    "definition": "simple and natural; without cunning or deceit",
-    "hint": "The child was completely artless and trusted everyone she met.",
-    "word_id": 131
-  },
-  {
-    "word": "ascetic",
-    "definition": "someone who practices self denial as a spiritual discipline",
-    "hint": "The monk practiced an ascetic lifestyle, owning almost nothing and eating very simply.",
-    "word_id": 136
-  },
-  {
-    "word": "assiduous",
-    "definition": "marked by care and persistent effort",
-    "hint": "Her assiduous preparation meant she checked every source before submitting the report.",
-    "word_id": 141
-  },
-  {
-    "word": "assuage",
-    "definition": "provide physical relief, as from pain",
-    "hint": "The medicine helped assuage the patient’s severe pain.",
-    "word_id": 146
-  },
-  {
-    "word": "attenuate",
-    "definition": "become weaker, in strength, value, or magnitude",
-    "hint": "After the treatment, the pain gradually began to attenuate.",
-    "word_id": 151
-  },
-  {
-    "word": "audacious",
-    "definition": "disposed to venture or take risks",
-    "hint": "The audacious climber attempted the route that more cautious teams had avoided.",
-    "word_id": 156
-  },
-  {
-    "word": "austere",
-    "definition": "of a stern or strict bearing or demeanor",
-    "hint": "The monastery had an austere atmosphere, with strict rules and little decoration.",
-    "word_id": 161
-  },
-  {
-    "word": "autonomous",
-    "definition": "existing as an independent entity",
-    "hint": "The colony eventually became politically autonomous from the empire.",
-    "word_id": 167
-  },
-  {
-    "word": "aver",
-    "definition": "declare or affirm solemnly and formally as true",
-    "hint": "Under oath, the witness aver that he had never met the defendant.",
-    "word_id": 172
-  },
-  {
-    "word": "banal",
-    "definition": "repeated too often; overfamiliar through overuse",
-    "hint": "The slogan sounded banal because audiences had heard similar phrases for decades.",
-    "word_id": 177
-  },
-  {
-    "word": "belie",
-    "definition": "be in contradiction with",
-    "hint": "Her cheerful smile seemed to belie the sadness she had described moments earlier.",
-    "word_id": 182
-  },
-  {
-    "word": "beneficent",
-    "definition": "doing or producing good",
-    "hint": "The foundation is known for its beneficent work in rural communities.",
-    "word_id": 187
-  },
-  {
-    "word": "bombastic",
-    "definition": "ostentatiously lofty in style",
-    "hint": "The mayor gave a bombastic speech filled with grand claims and exaggerated language.",
-    "word_id": 197
-  },
-  {
-    "word": "boorish",
-    "definition": "ill-mannered and coarse in behavior or appearance",
-    "hint": "The guest’s boorish jokes offended nearly everyone at the dinner.",
-    "word_id": 202
-  },
-  {
-    "word": "burgeon",
-    "definition": "grow and flourish",
-    "hint": "The small business began to burgeon once the new product reached international markets.",
-    "word_id": 207
-  },
-  {
-    "word": "burnish",
-    "definition": "polish and make shiny",
-    "hint": "The jeweler carefully burnish the silver before placing it in the display case.",
-    "word_id": 212
-  },
-  {
-    "word": "buttress",
-    "definition": "a support usually of stone or brick",
-    "hint": "The old cathedral needed a massive stone buttress to keep the wall from collapsing.",
-    "word_id": 217
-  },
-  {
-    "word": "cacophonous",
-    "definition": "having an unpleasant sound",
-    "hint": "The audience winced as the instruments produced a harsh, cacophonous mix of notes.",
-    "word_id": 222
-  },
-  {
-    "word": "capricious",
-    "definition": "determined by chance or impulse rather than by necessity",
-    "hint": "The CEO made a capricious decision to launch the product early simply because she felt like it.",
-    "word_id": 227
-  },
-  {
-    "word": "castigation",
-    "definition": "verbal punishment",
-    "hint": "The newspaper’s harsh castigation of the company damaged its public image.",
-    "word_id": 232
-  },
-  {
-    "word": "catalyst",
-    "definition": "substance that initiates or accelerates a chemical reaction",
-    "hint": "The new discovery acted as a catalyst for rapid change in the field.",
-    "word_id": 237
-  },
-  {
-    "word": "causality",
-    "definition": "the relation between reasons and effects",
-    "hint": "The study found a strong relationship between smoking and illness, but the researchers cautioned that correlation alone did not prove causality.",
-    "word_id": 335
-  },
-  {
-    "word": "chicanery",
-    "definition": "the use of tricks to deceive someone",
-    "hint": "The scheme relied on elaborate chicanery to fool unsuspecting customers.",
+    "word": "acrimony",
+    "definition": "bitterness or harshness in speech or manner",
+    "hint": "The divorce proceedings were marked by such acrimony that the couple could barely sit in the same room.",
     "word_id": 2
   },
   {
-    "word": "coagulate",
-    "definition": "change from a liquid to a thickened or solid state",
-    "hint": "As the sauce cooled, it began to coagulate into a thick paste.",
-    "word_id": 7
-  },
-  {
-    "word": "coda",
-    "definition": "the closing section of a musical composition",
-    "hint": "The composer added a short coda that brought the symphony to a final close.",
-    "word_id": 12
-  },
-  {
-    "word": "commensurate",
-    "definition": "corresponding in size or degree or extent",
-    "hint": "The bonus should be commensurate with the amount of extra work employees completed.",
-    "word_id": 22
-  },
-  {
-    "word": "compendium",
-    "definition": "a publication containing a variety of works",
-    "hint": "The handbook is a useful compendium of essays on economics, history, and politics.",
-    "word_id": 27
-  },
-  {
-    "word": "complaisant",
-    "definition": "showing a cheerful willingness to do favors for others",
-    "hint": "Her complaisant attitude made her happy to help every new colleague who asked.",
-    "word_id": 32
-  },
-  {
-    "word": "conciliatory",
-    "definition": "making or willing to make concessions",
-    "hint": "The mediator adopted a conciliatory tone to help the two sides reach a compromise.",
-    "word_id": 42
-  },
-  {
-    "word": "confound",
-    "definition": "be confusing or perplexing to",
-    "hint": "The contradictory instructions only served to confound the new employees.",
-    "word_id": 52
-  },
-  {
-    "word": "connoisseur",
-    "definition": "an expert able to appreciate a field",
-    "hint": "Only a wine connoisseur could distinguish the subtle differences between the two bottles.",
-    "word_id": 57
-  },
-  {
-    "word": "contention",
-    "definition": "the act of competing as for profit or a prize",
-    "hint": "The two teams were locked in fierce contention for the championship.",
-    "word_id": 62
-  },
-  {
-    "word": "contentious",
-    "definition": "showing an inclination to disagree",
-    "hint": "The committee became so contentious that even minor wording changes led to arguments.",
-    "word_id": 67
-  },
-  {
-    "word": "conundrum",
-    "definition": "a difficult problem",
-    "hint": "The committee faced a difficult conundrum with no solution that satisfied everyone.",
-    "word_id": 77
-  },
-  {
-    "word": "conventional",
-    "definition": "following accepted customs and proprieties",
-    "hint": "Although most candidates wore conventional business attire, she chose a more modern outfit for the interview.",
-    "word_id": 336
-  },
-  {
-    "word": "convoluted",
-    "definition": "highly complex or intricate",
-    "hint": "The tax code was so convoluted that even experts struggled to follow its logic.",
-    "word_id": 87
-  },
-  {
-    "word": "craven",
-    "definition": "lacking even the rudiments of courage; abjectly fearful",
-    "hint": "His craven refusal to defend his colleague when threatened revealed his lack of courage.",
-    "word_id": 92
-  },
-  {
-    "word": "decorum",
-    "definition": "propriety in manners and conduct",
-    "hint": "The diplomats maintained perfect decorum throughout the tense negotiations.",
-    "word_id": 102
-  },
-  {
-    "word": "deference",
-    "definition": "courteous regard for people's feelings",
-    "hint": "Out of deference for the elderly guests, the organizers kept the music at a reasonable volume.",
-    "word_id": 112
-  },
-  {
-    "word": "delineate",
-    "definition": "represented accurately or precisely",
-    "hint": "The diagram was carefully drawn to delineate the structure of the machine.",
-    "word_id": 117
-  },
-  {
-    "word": "denigrate",
-    "definition": "attack the good name and reputation of someone",
-    "hint": "The article attempted to denigrate the scientist by questioning her motives rather than her evidence.",
-    "word_id": 122
-  },
-  {
-    "word": "derivative",
-    "definition": "a compound obtained from another compound",
-    "hint": "The article described a situation that matched this description: derivative.",
-    "word_id": 132
-  },
-  {
-    "word": "desiccate",
-    "definition": "lacking vitality or spirit; lifeless",
-    "hint": "Without water, the plants became dry and desiccate within days.",
-    "word_id": 137
-  },
-  {
-    "word": "desultory",
-    "definition": "marked by lack of definite plan, purpose, or enthusiasm",
-    "hint": "Their search was desultory, with no clear destination and little sense of urgency.",
-    "word_id": 142
-  },
-  {
-    "word": "diatribe",
-    "definition": "thunderous verbal attack",
-    "hint": "The editorial was a furious diatribe against corruption in the government.",
-    "word_id": 152
-  },
-  {
-    "word": "dichotomy",
-    "definition": "a classification into two opposed parts or subclasses",
-    "hint": "The debate presented a false dichotomy between economic growth and environmental protection.",
-    "word_id": 157
-  },
-  {
-    "word": "diffidence",
-    "definition": "lack of self-assurance",
-    "hint": "Her diffidence made her hesitate to speak even when she knew the answer.",
-    "word_id": 162
-  },
-  {
-    "word": "diffuse",
-    "definition": "spread out; not concentrated in one place",
-    "hint": "The population is widely diffuse across the region rather than clustered in cities.",
-    "word_id": 168
-  },
-  {
-    "word": "digression",
-    "definition": "a message that departs from the main subject",
-    "hint": "The speaker went on a long digression about childhood memories that had nothing to do with the proposal.",
-    "word_id": 173
-  },
-  {
-    "word": "dirge",
-    "definition": "a song or hymn of mourning as a memorial to a dead person",
-    "hint": "The choir sang a solemn dirge at the funeral.",
-    "word_id": 178
-  },
-  {
-    "word": "disabuse",
-    "definition": "free somebody from an erroneous belief",
-    "hint": "The teacher worked to disabuse the students of the misconception that the exam had been canceled.",
-    "word_id": 183
-  },
-  {
-    "word": "discerning",
-    "definition": "having or revealing keen insight and good judgment",
-    "hint": "A discerning editor quickly noticed that the statistics did not support the headline.",
-    "word_id": 188
-  },
-  {
-    "word": "discordant",
-    "definition": "not in agreement or harmony",
-    "hint": "The two reports were discordant, giving completely different accounts of the incident.",
-    "word_id": 193
-  },
-  {
-    "word": "discredit",
-    "definition": "the state of being held in low esteem",
-    "hint": "The repeated scandals brought the once-respected agency into discredit.",
-    "word_id": 198
-  },
-  {
-    "word": "discrepancy",
-    "definition": "a difference between conflicting facts or claims or opinions",
-    "hint": "There was a significant discrepancy between the two copies of the contract.",
-    "word_id": 203
-  },
-  {
-    "word": "discrete",
-    "definition": "constituting a separate entity or part",
-    "hint": "The two experiments were treated as discrete studies rather than one combined project.",
-    "word_id": 208
-  },
-  {
-    "word": "disingenuous",
-    "definition": "not straightforward or candid",
-    "hint": "His answer sounded disingenuous because he avoided admitting what he had actually done.",
-    "word_id": 213
-  },
-  {
-    "word": "disinterested",
-    "definition": "unaffected by concern for one's own welfare",
-    "hint": "As an impartial mediator, she remained disinterested and focused only on a fair outcome.",
-    "word_id": 218
-  },
-  {
-    "word": "disjointed",
-    "definition": "taken apart at the points of connection",
-    "hint": "The report felt disjointed, with facts from different sections appearing in random order.",
-    "word_id": 223
-  },
-  {
-    "word": "dismiss",
-    "definition": "stop associating with",
-    "hint": "The club decided to dismiss members who repeatedly violated its code of conduct.",
-    "word_id": 228
-  },
-  {
-    "word": "disparage",
-    "definition": "express a negative opinion of",
-    "hint": "The article attempted to disparage the scientist by questioning her motives rather than her evidence.",
-    "word_id": 233
-  },
-  {
-    "word": "disparate",
-    "definition": "fundamentally different or distinct in quality or kind",
-    "hint": "The two studies reached opposite conclusions because they examined disparate populations.",
-    "word_id": 238
-  },
-  {
-    "word": "dissemble",
-    "definition": "behave unnaturally or affectedly",
-    "hint": "He began to dissemble when the interviewer asked a question he did not want to answer.",
-    "word_id": 243
-  },
-  {
-    "word": "disseminate",
-    "definition": "cause to become widely known",
-    "hint": "The university launched a campaign to disseminate its findings beyond the country.",
+    "word": "amalgam",
+    "definition": "a mixture or blend of different elements",
+    "hint": "The city's cuisine is an amalgam of French, African, and Caribbean influences.",
     "word_id": 3
   },
   {
-    "word": "dissolution",
-    "definition": "separation into component parts",
-    "hint": "The agreement led to the dissolution of the organization into two independent groups.",
-    "word_id": 8
-  },
-  {
-    "word": "dissonance",
-    "definition": "disagreeable sounds",
-    "hint": "The audience winced as the instruments produced a harsh, dissonance mix of notes.",
-    "word_id": 13
-  },
-  {
-    "word": "distend",
-    "definition": "cause to expand as if by internal pressure",
-    "hint": "The balloon continued to distend as more air was pumped into it.",
-    "word_id": 18
-  },
-  {
-    "word": "distill",
-    "definition": "undergo condensation",
-    "hint": "The vapor was cooled so that it could distill into a liquid.",
-    "word_id": 23
-  },
-  {
-    "word": "doctrinaire",
-    "definition": "a stubborn person of arbitrary or arrogant opinions",
-    "hint": "The professor was so doctrinaire that he dismissed every idea that challenged his established theory.",
-    "word_id": 337
-  },
-  {
-    "word": "dogmatic",
-    "definition": "pertaining to a code of beliefs accepted as authoritative",
-    "hint": "The professor was so dogmatic that she dismissed any evidence that challenged her theory.",
-    "word_id": 43
-  },
-  {
-    "word": "dupe",
-    "definition": "fool or hoax",
-    "hint": "The scammer tried to dupe the elderly customer into paying for a worthless product.",
-    "word_id": 53
-  },
-  {
-    "word": "ebullient",
-    "definition": "joyously unrestrained",
-    "hint": "The crowd became ebullient when the final score was announced.",
-    "word_id": 58
-  },
-  {
-    "word": "eclectic",
-    "definition": "selecting what seems best of various styles or ideas",
-    "hint": "Her reading list was eclectic, ranging from ancient philosophy to modern physics.",
-    "word_id": 63
-  },
-  {
-    "word": "efficacy",
-    "definition": "capacity or power to produce a desired result",
-    "hint": "The drug’s efficacy was tested by comparing recovery rates with those of a placebo.",
-    "word_id": 68
-  },
-  {
-    "word": "effrontery",
-    "definition": "audacious behavior that you have no right to",
-    "hint": "His effrontery shocked everyone: he walked into the private meeting without an invitation and demanded a seat.",
-    "word_id": 73
-  },
-  {
-    "word": "elegy",
-    "definition": "a mournful poem; a lament for the dead",
-    "hint": "The poet wrote an elegy after the death of her close friend.",
-    "word_id": 78
-  },
-  {
-    "word": "elicit",
-    "definition": "call forth, as an emotion, feeling, or response",
-    "hint": "The speaker’s story was designed to elicit sympathy from the audience.",
-    "word_id": 83
-  },
-  {
-    "word": "embellish",
-    "definition": "make more attractive, as by adding ornament or color",
-    "hint": "The designer used gold trim to embellish the otherwise simple room.",
-    "word_id": 88
-  },
-  {
-    "word": "empirical",
-    "definition": "derived from experiment and observation rather than theory",
-    "hint": "The researchers based their conclusion on empirical evidence gathered from thousands of tests.",
-    "word_id": 93
-  },
-  {
-    "word": "emulate",
-    "definition": "strive to equal or match, especially by imitating",
-    "hint": "The student tried to emulate her mentor’s success by adopting the same disciplined routine.",
-    "word_id": 98
-  },
-  {
-    "word": "endemic",
-    "definition": "native to or confined to a certain region",
-    "hint": "The disease is endemic to a small island and rarely occurs elsewhere.",
-    "word_id": 103
-  },
-  {
-    "word": "enervate",
-    "definition": "weaken physically, mentally, or morally",
-    "hint": "Weeks of sleep deprivation began to enervate the normally energetic students.",
-    "word_id": 108
-  },
-  {
-    "word": "engender",
-    "definition": "call forth",
-    "hint": "The policy may engender resentment among workers who feel ignored.",
-    "word_id": 113
-  },
-  {
-    "word": "ephemeral",
-    "definition": "anything short-lived, as an insect that lives only for a day",
-    "hint": "The online trend was ephemeral, disappearing almost as quickly as it became popular.",
-    "word_id": 123
-  },
-  {
-    "word": "equanimity",
-    "definition": "steadiness of mind under stress",
-    "hint": "She handled the emergency with remarkable equanimity, never raising her voice.",
-    "word_id": 128
-  },
-  {
-    "word": "equivocate",
-    "definition": "be deliberately ambiguous or unclear",
-    "hint": "When reporters asked for a yes-or-no answer, the politician chose to equivocate.",
-    "word_id": 133
-  },
-  {
-    "word": "erudite",
-    "definition": "having or showing profound knowledge",
-    "hint": "The erudite scholar could discuss ancient languages without consulting a reference book.",
-    "word_id": 138
-  },
-  {
-    "word": "esoteric",
-    "definition": "understandable only by an enlightened inner circle",
-    "hint": "The paper used such esoteric terminology that only a handful of specialists could understand it.",
-    "word_id": 143
-  },
-  {
-    "word": "eulogy",
-    "definition": "a formal expression of praise for someone who has died",
-    "hint": "At the memorial, her former students delivered a moving eulogy describing her influence.",
-    "word_id": 148
-  },
-  {
-    "word": "euphemism",
-    "definition": "an inoffensive expression substituted for an offensive one",
-    "hint": "Instead of saying that he had been fired, the company used the euphemism “position eliminated.”",
-    "word_id": 153
-  },
-  {
-    "word": "exacerbate",
-    "definition": "make worse",
-    "hint": "Adding more delays would only exacerbate the already serious problem.",
-    "word_id": 158
-  },
-  {
-    "word": "exculpate",
-    "definition": "pronounce not guilty of criminal charges",
-    "hint": "The new evidence may exculpate the suspect by showing he was elsewhere.",
-    "word_id": 163
-  },
-  {
-    "word": "exigency",
-    "definition": "a pressing or urgent situation",
-    "hint": "In an exigency, the hospital can activate its emergency response team immediately.",
-    "word_id": 169
-  },
-  {
-    "word": "extraneous",
-    "definition": "not belonging to that in which it is contained",
-    "hint": "The editor removed several extraneous details that distracted readers from the main argument.",
-    "word_id": 338
-  },
-  {
-    "word": "facetious",
-    "definition": "cleverly amusing in tone",
-    "hint": "His facetious remark earned a few laughs but failed to hide the seriousness of the situation.",
-    "word_id": 179
-  },
-  {
-    "word": "facilitate",
-    "definition": "make easier",
-    "hint": "The new software will facilitate communication between hospitals.",
-    "word_id": 184
-  },
-  {
-    "word": "fallacious",
-    "definition": "containing or based on incorrect reasoning",
-    "hint": "The conclusion was fallacious because it relied on a false assumption about cause and effect.",
-    "word_id": 189
-  },
-  {
-    "word": "fatuous",
-    "definition": "devoid of intelligence",
-    "hint": "The proposal was so fatuous that even its author struggled to explain the basic idea.",
-    "word_id": 194
-  },
-  {
-    "word": "fawning",
-    "definition": "attempting to win favor by flattery",
-    "hint": "The assistant’s fawning compliments became obvious once she started asking the director for special treatment.",
-    "word_id": 199
-  },
-  {
-    "word": "felicitous",
-    "definition": "exhibiting an agreeably appropriate manner or style",
-    "hint": "The novelist’s choice of words was especially felicitous and suited the mood perfectly.",
-    "word_id": 204
-  },
-  {
-    "word": "flag",
-    "definition": "a rectangular piece of cloth of distinctive design",
-    "hint": "The national flag was raised above the stage during the ceremony.",
-    "word_id": 214
-  },
-  {
-    "word": "fledgling",
-    "definition": "young bird that has just become capable of flying",
-    "hint": "The fledgling struggled to balance on the branch during its first attempts at flight.",
-    "word_id": 219
-  },
-  {
-    "word": "flout",
-    "definition": "treat with contemptuous disregard",
-    "hint": "Drivers who flout the speed limit put everyone else at risk.",
-    "word_id": 224
-  },
-  {
-    "word": "foment",
-    "definition": "try to stir up",
-    "hint": "The pamphlets were designed to foment anger against the new government.",
-    "word_id": 229
-  },
-  {
-    "word": "forestall",
-    "definition": "keep from happening or arising; make impossible",
-    "hint": "The early warning system could forestall a much larger disaster.",
-    "word_id": 234
-  },
-  {
-    "word": "frugality",
-    "definition": "prudence in avoiding waste",
-    "hint": "Her frugality habits allowed the family to save money without feeling deprived.",
-    "word_id": 239
-  },
-  {
-    "word": "gainsay",
-    "definition": "take exception to",
-    "hint": "The historian publicly gainsay the claim, arguing that the evidence did not support it.",
+    "word": "ambiguous",
+    "definition": "open to more than one interpretation; unclear",
+    "hint": "His ambiguous answer left us wondering whether he meant yes or no.",
     "word_id": 4
   },
   {
-    "word": "garrulous",
-    "definition": "full of trivial conversation",
-    "hint": "At the party, his endless garrulous about minor details exhausted everyone around him.",
+    "word": "ambivalent",
+    "definition": "having mixed or contradictory feelings about something",
+    "hint": "She felt ambivalent about the promotion, excited for the challenge but sad to leave her old team.",
+    "word_id": 5
+  },
+  {
+    "word": "amenable",
+    "definition": "open and responsive to suggestion; willing to cooperate",
+    "hint": "He was amenable to changing the meeting time as long as everyone else agreed.",
+    "word_id": 6
+  },
+  {
+    "word": "amorphous",
+    "definition": "without a clear or definite shape or structure",
+    "hint": "The company's goals remained amorphous, with no concrete plan for how to achieve them.",
+    "word_id": 7
+  },
+  {
+    "word": "anomalous",
+    "definition": "deviating from what is standard or expected",
+    "hint": "Scientists flagged the anomalous reading because it didn't match any known pattern.",
+    "word_id": 8
+  },
+  {
+    "word": "artful",
+    "definition": "skillful in a cunning or crafty way",
+    "hint": "With an artful dodge of the question, the politician avoided giving a direct answer.",
     "word_id": 9
   },
   {
-    "word": "goad",
-    "definition": "stab or urge on as if with a pointed stick",
-    "hint": "The coach kept trying to goad the hesitant runner to give one final push.",
+    "word": "auspicious",
+    "definition": "showing signs that something will be successful",
+    "hint": "Opening the store on a busy holiday weekend seemed like an auspicious start.",
+    "word_id": 10
+  },
+  {
+    "word": "belie",
+    "definition": "to give a false impression of; to contradict",
+    "hint": "His calm expression belied the panic he felt inside.",
+    "word_id": 11
+  },
+  {
+    "word": "betray",
+    "definition": "to be disloyal to, or to reveal unintentionally",
+    "hint": "Her trembling hands betrayed her nervousness even though her voice stayed steady.",
+    "word_id": 12
+  },
+  {
+    "word": "calumny",
+    "definition": "a false and malicious statement meant to damage someone's reputation",
+    "hint": "The senator sued the newspaper for calumny after it published baseless accusations against him.",
+    "word_id": 13
+  },
+  {
+    "word": "castigate",
+    "definition": "to criticize or punish severely",
+    "hint": "The coach castigated the team for their careless mistakes in the final minutes.",
     "word_id": 14
   },
   {
-    "word": "gouge",
-    "definition": "an impression in a surface, as made by a blow",
-    "hint": "The falling branch left a deep gouge in the wooden door.",
+    "word": "censure",
+    "definition": "to express strong disapproval of, especially officially",
+    "hint": "The board voted to censure the executive for violating company policy.",
+    "word_id": 15
+  },
+  {
+    "word": "chastise",
+    "definition": "to reprimand severely, often to correct behavior",
+    "hint": "The teacher chastised the students for talking during the exam.",
+    "word_id": 16
+  },
+  {
+    "word": "commensurate",
+    "definition": "corresponding in size or degree; proportionate",
+    "hint": "Her salary was commensurate with her many years of experience.",
+    "word_id": 17
+  },
+  {
+    "word": "demur",
+    "definition": "to raise objections or show reluctance",
+    "hint": "When asked to work the weekend, she demurred, citing a prior commitment.",
+    "word_id": 18
+  },
+  {
+    "word": "disinterested",
+    "definition": "not influenced by personal interest; impartial",
+    "hint": "We need a disinterested judge who has no stake in either side of the case.",
     "word_id": 19
   },
   {
-    "word": "grandiloquent",
-    "definition": "lofty in style",
-    "hint": "The speech was so grandiloquent that ordinary people struggled to understand what the speaker meant.",
+    "word": "egregious",
+    "definition": "outstandingly bad; shocking",
+    "hint": "The report contained an egregious error that completely reversed the study's conclusion.",
+    "word_id": 20
+  },
+  {
+    "word": "enervate",
+    "definition": "to weaken or drain of energy",
+    "hint": "The oppressive heat and humidity enervated the hikers by midday.",
+    "word_id": 21
+  },
+  {
+    "word": "equivocal",
+    "definition": "open to more than one interpretation; deliberately ambiguous",
+    "hint": "His equivocal statement left both sides of the debate claiming him as an ally.",
+    "word_id": 22
+  },
+  {
+    "word": "extant",
+    "definition": "still in existence; not lost or destroyed",
+    "hint": "Only a handful of copies of the ancient manuscript are still extant.",
+    "word_id": 23
+  },
+  {
+    "word": "frugal",
+    "definition": "sparing or economical with money or resources",
+    "hint": "Despite her large income, she remained frugal, packing lunch instead of eating out.",
     "word_id": 24
   },
   {
+    "word": "galvanize",
+    "definition": "to shock or excite someone into taking action",
+    "hint": "The coach's halftime speech galvanized the team into a stunning comeback.",
+    "word_id": 25
+  },
+  {
     "word": "gregarious",
-    "definition": "temperamentally seeking and enjoying the company of others",
-    "hint": "Unlike his quiet brother, he is extremely gregarious and loves meeting strangers.",
-    "word_id": 29
-  },
-  {
-    "word": "guileless",
-    "definition": "innocent and free of deceit",
-    "hint": "The child was completely guileless and trusted everyone she met.",
-    "word_id": 34
-  },
-  {
-    "word": "gullible",
-    "definition": "naive and easily deceived or tricked",
-    "hint": "Because he trusted strangers too quickly, the gullible traveler lost money to the scam.",
-    "word_id": 39
+    "definition": "fond of company; sociable",
+    "hint": "As a gregarious host, he loved throwing parties and meeting new people.",
+    "word_id": 26
   },
   {
     "word": "harangue",
-    "definition": "a loud bombastic declamation expressed with strong emotion",
-    "hint": "The senator launched into a furious harangue against the proposed law.",
+    "definition": "a lengthy, aggressive lecture or scolding",
+    "hint": "The manager's harangue about lateness went on for a full fifteen minutes.",
+    "word_id": 27
+  },
+  {
+    "word": "iconoclast",
+    "definition": "a person who attacks cherished beliefs or traditions",
+    "hint": "As an iconoclast, she loved challenging the industry's long-held assumptions.",
+    "word_id": 28
+  },
+  {
+    "word": "impertinent",
+    "definition": "not showing proper respect; rude",
+    "hint": "The intern's impertinent remarks to the CEO shocked everyone in the meeting.",
+    "word_id": 29
+  },
+  {
+    "word": "ingenuous",
+    "definition": "innocent and unsuspecting; naive",
+    "hint": "His ingenuous trust in strangers worried his more cautious friends.",
+    "word_id": 30
+  },
+  {
+    "word": "innocuous",
+    "definition": "not harmful or offensive",
+    "hint": "The comment seemed innocuous at the time, but it caused unexpected offense.",
+    "word_id": 31
+  },
+  {
+    "word": "intimate",
+    "definition": "closely acquainted; deeply personal",
+    "hint": "The two old friends shared an intimate understanding built over decades.",
+    "word_id": 32
+  },
+  {
+    "word": "involved",
+    "definition": "complicated or complex; deeply connected to something",
+    "hint": "The tax form turned out to be far more involved than she had expected.",
+    "word_id": 33
+  },
+  {
+    "word": "maintain",
+    "definition": "to keep in existence or continue; to assert firmly",
+    "hint": "She continued to maintain her innocence throughout the entire trial.",
+    "word_id": 34
+  },
+  {
+    "word": "mercurial",
+    "definition": "subject to sudden and unpredictable changes in mood",
+    "hint": "His mercurial temper made it hard to predict how he'd react to bad news.",
+    "word_id": 35
+  },
+  {
+    "word": "parochial",
+    "definition": "having a narrow or limited outlook; provincial",
+    "hint": "His parochial view of the industry ignored how things worked outside his hometown.",
+    "word_id": 36
+  },
+  {
+    "word": "parsimonious",
+    "definition": "extremely unwilling to spend money or use resources",
+    "hint": "The parsimonious landlord refused to fix the heater even in winter.",
+    "word_id": 37
+  },
+  {
+    "word": "prevaricate",
+    "definition": "to speak evasively or lie to avoid the truth",
+    "hint": "Instead of answering directly, the witness began to prevaricate under cross-examination.",
+    "word_id": 38
+  },
+  {
+    "word": "prodigal",
+    "definition": "wastefully extravagant; recklessly spending",
+    "hint": "The prodigal heir burned through his inheritance in just a few years.",
+    "word_id": 39
+  },
+  {
+    "word": "profligate",
+    "definition": "recklessly wasteful, especially with money",
+    "hint": "The company's profligate spending on parties led to its eventual bankruptcy.",
+    "word_id": 40
+  },
+  {
+    "word": "qualify",
+    "definition": "to modify or limit; to meet the necessary standard",
+    "hint": "She had to qualify her statement after realizing it wasn't entirely accurate.",
+    "word_id": 41
+  },
+  {
+    "word": "restive",
+    "definition": "unable to keep still or be controlled; restless",
+    "hint": "The restive crowd grew impatient as the concert's start was delayed again.",
+    "word_id": 42
+  },
+  {
+    "word": "undermine",
+    "definition": "to weaken gradually or subtly",
+    "hint": "Constant criticism began to undermine her confidence in her own decisions.",
+    "word_id": 43
+  },
+  {
+    "word": "upbraid",
+    "definition": "to scold or criticize severely",
+    "hint": "The captain upbraided the sailors for their carelessness on deck.",
     "word_id": 44
   },
   {
-    "word": "homogeneous",
-    "definition": "all of the same or similar kind or nature",
-    "hint": "The classroom contained a remarkably homogeneous group of students with nearly identical backgrounds.",
+    "word": "venality",
+    "definition": "the quality of being open to bribery or corruption",
+    "hint": "Investigators exposed the venality of officials who accepted bribes for building permits.",
+    "word_id": 45
+  },
+  {
+    "word": "venerate",
+    "definition": "to regard with great respect or reverence",
+    "hint": "Villagers venerate the old temple as a sacred site.",
+    "word_id": 46
+  },
+  {
+    "word": "veracious",
+    "definition": "habitually speaking the truth; honest",
+    "hint": "A veracious witness, she never wavered from her original account.",
+    "word_id": 47
+  },
+  {
+    "word": "vindicate",
+    "definition": "to clear someone of blame or suspicion",
+    "hint": "New DNA evidence finally vindicated the man after twenty years in prison.",
+    "word_id": 48
+  },
+  {
+    "word": "wanting",
+    "definition": "lacking something needed; not up to standard",
+    "hint": "Despite the hype, the sequel was found wanting compared to the original film.",
     "word_id": 49
   },
   {
-    "word": "hyperbole",
-    "definition": "extravagant exaggeration",
-    "hint": "Saying that the minor delay had ruined his entire life was obvious hyperbole.",
+    "word": "aesthete",
+    "definition": "a person who has or pretends to have refined appreciation of beauty",
+    "hint": "As a devoted aesthete, he arranged even his bookshelf by the color of the spines.",
+    "word_id": 50
+  },
+  {
+    "word": "aesthetic",
+    "definition": "concerned with beauty or the appreciation of it",
+    "hint": "The designer's minimalist aesthetic favored clean lines and empty space.",
+    "word_id": 51
+  },
+  {
+    "word": "apathetic",
+    "definition": "showing little interest or enthusiasm; indifferent",
+    "hint": "Voter turnout dropped because so many citizens felt apathetic about the candidates.",
+    "word_id": 52
+  },
+  {
+    "word": "audacious",
+    "definition": "showing bold and daring courage",
+    "hint": "Her audacious plan to cross the ocean solo stunned even experienced sailors.",
+    "word_id": 53
+  },
+  {
+    "word": "banal",
+    "definition": "so common as to be boring; unoriginal",
+    "hint": "The film's dialogue was so banal that the audience began checking their phones.",
     "word_id": 54
   },
   {
-    "word": "iconoclastic",
-    "definition": "characterized by attack on established beliefs",
-    "hint": "Her iconoclastic research challenged several assumptions that other scholars had treated as sacred.",
+    "word": "bucolic",
+    "definition": "relating to pleasant, idyllic rural life",
+    "hint": "They spent the weekend at a bucolic farmhouse surrounded by rolling fields.",
+    "word_id": 55
+  },
+  {
+    "word": "chortle",
+    "definition": "to laugh in a breathless, gleeful way",
+    "hint": "He couldn't help but chortle at the absurd punchline of the joke.",
+    "word_id": 56
+  },
+  {
+    "word": "concede",
+    "definition": "to admit that something is true after first denying it",
+    "hint": "After hours of debate, she finally conceded that his argument had merit.",
+    "word_id": 57
+  },
+  {
+    "word": "conspicuous",
+    "definition": "clearly visible; attracting attention",
+    "hint": "Wearing a bright red coat, he was conspicuous in the otherwise gray crowd.",
+    "word_id": 58
+  },
+  {
+    "word": "cryptic",
+    "definition": "having a meaning that is mysterious or hard to interpret",
+    "hint": "The cryptic note left on the desk gave no clue about where she had gone.",
     "word_id": 59
   },
   {
-    "word": "idolatry",
-    "definition": "the worship of objects or images as gods",
-    "hint": "The reformer condemned the practice of treating sacred statues as divine objects, calling it idolatry.",
+    "word": "culminate",
+    "definition": "to reach the highest or final point of something",
+    "hint": "Years of training culminated in her qualifying for the Olympic team.",
+    "word_id": 60
+  },
+  {
+    "word": "culpability",
+    "definition": "responsibility or blame for a fault or wrongdoing",
+    "hint": "The investigation aimed to determine each employee's degree of culpability in the fraud.",
+    "word_id": 61
+  },
+  {
+    "word": "decorous",
+    "definition": "showing propriety and good taste; polite and dignified",
+    "hint": "Even at the chaotic party, she kept a decorous composure.",
+    "word_id": 62
+  },
+  {
+    "word": "deferential",
+    "definition": "showing respect for someone, often submissively",
+    "hint": "The junior staff spoke in a deferential tone whenever the director entered the room.",
+    "word_id": 63
+  },
+  {
+    "word": "dictatorial",
+    "definition": "tending to give orders and impose one's will on others",
+    "hint": "His dictatorial management style left no room for the team's own ideas.",
     "word_id": 64
   },
   {
-    "word": "immutable",
-    "definition": "not subject or susceptible to change or variation",
-    "hint": "The law was considered immutable, so even a national emergency could not alter it.",
+    "word": "didactic",
+    "definition": "intended to teach or instruct, often excessively so",
+    "hint": "Critics found the novel too didactic, more interested in lecturing readers than telling a story.",
+    "word_id": 65
+  },
+  {
+    "word": "diffident",
+    "definition": "modest or shy due to lack of self-confidence",
+    "hint": "He gave a diffident answer, unsure if his idea was even worth sharing.",
+    "word_id": 66
+  },
+  {
+    "word": "dogmatic",
+    "definition": "asserting opinions as if they were unquestionably true",
+    "hint": "His dogmatic insistence on his own methods alienated every new hire.",
+    "word_id": 67
+  },
+  {
+    "word": "engender",
+    "definition": "to cause or give rise to a feeling or condition",
+    "hint": "The layoffs engendered a deep distrust between staff and management.",
+    "word_id": 68
+  },
+  {
+    "word": "entrenched",
+    "definition": "firmly established and difficult to change",
+    "hint": "The entrenched bureaucracy resisted even the smallest procedural reforms.",
     "word_id": 69
   },
   {
-    "word": "impair",
-    "definition": "make worse or less effective",
-    "hint": "The outdated software began to impair the computer’s performance.",
+    "word": "eschew",
+    "definition": "to deliberately avoid using or doing something",
+    "hint": "The chef eschewed processed ingredients in favor of everything fresh and local.",
+    "word_id": 70
+  },
+  {
+    "word": "exacerbate",
+    "definition": "to make a problem or situation worse",
+    "hint": "Skipping physical therapy only exacerbated his knee injury.",
+    "word_id": 71
+  },
+  {
+    "word": "fortuitous",
+    "definition": "happening by lucky chance; fortunate",
+    "hint": "Their fortuitous meeting at the airport turned into a decade-long friendship.",
+    "word_id": 72
+  },
+  {
+    "word": "frivolous",
+    "definition": "not having any serious purpose or value; silly",
+    "hint": "The board dismissed the lawsuit as frivolous and without merit.",
+    "word_id": 73
+  },
+  {
+    "word": "gainsay",
+    "definition": "to deny or contradict a statement or fact",
+    "hint": "No one could gainsay the overwhelming evidence presented at trial.",
     "word_id": 74
   },
   {
-    "word": "impassive",
-    "definition": "having or revealing little emotion or sensibility",
-    "hint": "Even when the audience gasped, the detective remained completely impassive and continued taking notes.",
+    "word": "gall",
+    "definition": "bold, disrespectful behavior; impudence",
+    "hint": "He had the gall to ask for a raise the same week he missed three deadlines.",
+    "word_id": 75
+  },
+  {
+    "word": "germane",
+    "definition": "relevant to the matter at hand",
+    "hint": "The lawyer objected, arguing the question wasn't germane to the case.",
+    "word_id": 76
+  },
+  {
+    "word": "glut",
+    "definition": "an excessive supply of something",
+    "hint": "A glut of new apartments caused rental prices to plummet across the city.",
+    "word_id": 77
+  },
+  {
+    "word": "gossamer",
+    "definition": "extremely light, thin, and delicate",
+    "hint": "Morning dew clung to the gossamer threads of the spider's web.",
+    "word_id": 78
+  },
+  {
+    "word": "impudent",
+    "definition": "not showing due respect; disrespectful and bold",
+    "hint": "The impudent remark from the new employee left the whole meeting silent.",
     "word_id": 79
   },
   {
-    "word": "impede",
-    "definition": "be a hindrance or obstacle to",
-    "hint": "Heavy traffic continued to impede emergency vehicles on their way to the hospital.",
+    "word": "incisive",
+    "definition": "sharp, direct, and clearly expressed",
+    "hint": "Her incisive questions during the interview exposed the flaws in his plan.",
+    "word_id": 80
+  },
+  {
+    "word": "inexorable",
+    "definition": "impossible to stop or prevent",
+    "hint": "Despite their best efforts, the company's decline proved inexorable.",
+    "word_id": 81
+  },
+  {
+    "word": "lambast",
+    "definition": "to criticize someone or something harshly",
+    "hint": "Critics lambasted the film for its weak plot and wooden acting.",
+    "word_id": 82
+  },
+  {
+    "word": "mawkish",
+    "definition": "excessively sentimental in a way that feels false",
+    "hint": "The movie's ending was so mawkish that several viewers groaned instead of cried.",
+    "word_id": 83
+  },
+  {
+    "word": "meticulous",
+    "definition": "showing great attention to detail; very careful",
+    "hint": "Her meticulous notes made it easy to reconstruct exactly what had happened.",
     "word_id": 84
   },
   {
-    "word": "impermeable",
-    "definition": "preventing especially liquids to pass or diffuse through",
-    "hint": "The container is made of an impermeable material that keeps water completely out.",
+    "word": "mitigate",
+    "definition": "to make less severe, serious, or painful",
+    "hint": "The company added extra safety checks to mitigate the risk of another accident.",
+    "word_id": 85
+  },
+  {
+    "word": "obscure",
+    "definition": "not clearly expressed or understood; not well known",
+    "hint": "The professor's obscure reference confused most of the students.",
+    "word_id": 86
+  },
+  {
+    "word": "perfidy",
+    "definition": "deceitfulness; betrayal of trust",
+    "hint": "His perfidy in selling secrets to a rival firm ended his career instantly.",
+    "word_id": 87
+  },
+  {
+    "word": "platitude",
+    "definition": "a remark that is trite and overused, lacking real meaning",
+    "hint": "Instead of real advice, the manager offered only tired platitudes about teamwork.",
+    "word_id": 88
+  },
+  {
+    "word": "preclude",
+    "definition": "to prevent something from happening; to make impossible",
+    "hint": "A prior commitment precluded her from attending the conference.",
     "word_id": 89
   },
   {
-    "word": "imperturbable",
-    "definition": "marked by extreme calm and composure",
-    "hint": "Even during the crisis, the pilot remained imperturbable and spoke calmly to the passengers.",
+    "word": "predilection",
+    "definition": "a preference or special liking for something",
+    "hint": "He has a strong predilection for spicy food, adding hot sauce to almost every meal.",
+    "word_id": 90
+  },
+  {
+    "word": "prescience",
+    "definition": "knowledge of events before they happen; foresight",
+    "hint": "Her prescience about the market crash saved the firm millions.",
+    "word_id": 91
+  },
+  {
+    "word": "querulous",
+    "definition": "complaining in a whining, irritable manner",
+    "hint": "The querulous passenger complained about every small delay on the flight.",
+    "word_id": 92
+  },
+  {
+    "word": "recondite",
+    "definition": "little known; difficult to understand",
+    "hint": "The lecture drifted into such recondite mathematics that most students lost the thread.",
+    "word_id": 93
+  },
+  {
+    "word": "reticent",
+    "definition": "not revealing one's thoughts or feelings readily; reserved",
+    "hint": "He remained reticent about his plans, even when close friends asked.",
     "word_id": 94
   },
   {
-    "word": "impervious",
-    "definition": "not admitting of passage or capable of being affected",
-    "hint": "The material is impervious to water, so even heavy rain cannot penetrate it.",
+    "word": "rustic",
+    "definition": "characteristic of the countryside; simple and unsophisticated",
+    "hint": "The cabin's rustic charm came from its exposed wooden beams and stone fireplace.",
+    "word_id": 95
+  },
+  {
+    "word": "superfluous",
+    "definition": "more than is needed or wanted; unnecessary",
+    "hint": "After the edit, the essay's superfluous adjectives were all cut out.",
+    "word_id": 96
+  },
+  {
+    "word": "torpor",
+    "definition": "a state of mental or physical inactivity; lethargy",
+    "hint": "The heavy meal left him in a torpor, barely able to keep his eyes open.",
+    "word_id": 97
+  },
+  {
+    "word": "vociferous",
+    "definition": "vehement or loud in expressing one's views",
+    "hint": "Vociferous protesters gathered outside city hall demanding the mayor's resignation.",
+    "word_id": 98
+  },
+  {
+    "word": "volubility",
+    "definition": "the quality of talking fluently, readily, and at length",
+    "hint": "His volubility at dinner parties meant no one else could get a word in.",
     "word_id": 99
   },
   {
-    "word": "implacable",
-    "definition": "incapable of being appeased or pacified",
-    "hint": "The judge faced an implacable critic who refused every compromise.",
+    "word": "abstain",
+    "definition": "to choose not to do or have something; to refrain",
+    "hint": "Several senators chose to abstain rather than vote for or against the bill.",
+    "word_id": 100
+  },
+  {
+    "word": "ameliorate",
+    "definition": "to make a bad situation better",
+    "hint": "New irrigation systems helped ameliorate the effects of the drought on local crops.",
+    "word_id": 101
+  },
+  {
+    "word": "apathy",
+    "definition": "lack of interest, enthusiasm, or concern",
+    "hint": "Widespread apathy among residents made it hard to organize the neighborhood cleanup.",
+    "word_id": 102
+  },
+  {
+    "word": "ascetic",
+    "definition": "practicing severe self-discipline and avoidance of indulgence",
+    "hint": "The monk lived an ascetic life, owning only a robe and a bowl.",
+    "word_id": 103
+  },
+  {
+    "word": "avaricious",
+    "definition": "having an extreme greed for wealth or material gain",
+    "hint": "The avaricious landlord raised rents every year despite doing no repairs.",
     "word_id": 104
+  },
+  {
+    "word": "belligerent",
+    "definition": "hostile and aggressive; ready to fight",
+    "hint": "The belligerent customer began shouting at the cashier over a small mistake.",
+    "word_id": 105
+  },
+  {
+    "word": "circumvent",
+    "definition": "to find a way around an obstacle or rule",
+    "hint": "The company used offshore accounts to circumvent the new tax regulations.",
+    "word_id": 106
+  },
+  {
+    "word": "contrive",
+    "definition": "to create or bring about through deliberate effort or cleverness",
+    "hint": "She contrived a clever excuse to leave the awkward dinner early.",
+    "word_id": 107
+  },
+  {
+    "word": "delineate",
+    "definition": "to describe or portray precisely; to outline clearly",
+    "hint": "The contract carefully delineates the responsibilities of each party.",
+    "word_id": 108
+  },
+  {
+    "word": "denote",
+    "definition": "to be a sign of; to indicate",
+    "hint": "A red flag on the beach denotes dangerous swimming conditions.",
+    "word_id": 109
+  },
+  {
+    "word": "derivative",
+    "definition": "imitative of the work of another; not original",
+    "hint": "Critics dismissed the album as derivative, borrowing too heavily from other bands.",
+    "word_id": 110
+  },
+  {
+    "word": "derive",
+    "definition": "to obtain something from a specified source",
+    "hint": "Much of English vocabulary is derived from Latin and French.",
+    "word_id": 111
+  },
+  {
+    "word": "disaffected",
+    "definition": "dissatisfied with those in authority; rebellious",
+    "hint": "The disaffected workers eventually formed a union to voice their complaints.",
+    "word_id": 112
+  },
+  {
+    "word": "eclectic",
+    "definition": "deriving ideas or style from a broad range of sources",
+    "hint": "Her eclectic taste in music ranges from opera to punk rock.",
+    "word_id": 113
+  },
+  {
+    "word": "elucidate",
+    "definition": "to make something clear; to explain",
+    "hint": "The professor used a simple diagram to elucidate the complex theory.",
+    "word_id": 114
+  },
+  {
+    "word": "eminent",
+    "definition": "famous and respected within a particular field",
+    "hint": "An eminent scientist was invited to deliver the keynote address.",
+    "word_id": 115
+  },
+  {
+    "word": "ephemeral",
+    "definition": "lasting for a very short time",
+    "hint": "The beauty of cherry blossoms is ephemeral, lasting only about a week.",
+    "word_id": 116
+  },
+  {
+    "word": "fallacious",
+    "definition": "based on a mistaken belief; containing a flaw in reasoning",
+    "hint": "His fallacious argument assumed something that was never actually proven.",
+    "word_id": 117
+  },
+  {
+    "word": "forlorn",
+    "definition": "pitifully sad and lonely; abandoned",
+    "hint": "The forlorn puppy sat by the shelter door, waiting for someone to notice it.",
+    "word_id": 118
+  },
+  {
+    "word": "frustrate",
+    "definition": "to prevent someone from achieving a goal; to cause dissatisfaction",
+    "hint": "Repeated delays continued to frustrate the construction crew's efforts.",
+    "word_id": 119
+  },
+  {
+    "word": "guileless",
+    "definition": "innocent and without deception; honest",
+    "hint": "The guileless child answered every question with complete, unfiltered honesty.",
+    "word_id": 120
+  },
+  {
+    "word": "haughty",
+    "definition": "arrogantly superior and disdainful",
+    "hint": "Her haughty attitude toward the new interns made her unpopular in the office.",
+    "word_id": 121
+  },
+  {
+    "word": "heretic",
+    "definition": "a person believing in or practicing religious heresy, or one who defies accepted beliefs",
+    "hint": "He was branded a heretic for questioning the church's long-held doctrine.",
+    "word_id": 122
+  },
+  {
+    "word": "immutable",
+    "definition": "unchanging over time; unable to be changed",
+    "hint": "Scientists once believed the laws of physics were entirely immutable.",
+    "word_id": 123
+  },
+  {
+    "word": "incongruous",
+    "definition": "not in harmony or keeping with the surroundings",
+    "hint": "The modern glass tower looked incongruous next to the historic stone buildings.",
+    "word_id": 124
+  },
+  {
+    "word": "insidious",
+    "definition": "proceeding in a gradual, harmful way that isn't easily noticed",
+    "hint": "The insidious spread of the rumor damaged her reputation before she even knew it existed.",
+    "word_id": 125
+  },
+  {
+    "word": "itinerant",
+    "definition": "traveling from place to place, especially for work",
+    "hint": "The itinerant salesman moved from town to town selling his wares.",
+    "word_id": 126
+  },
+  {
+    "word": "jingoism",
+    "definition": "extreme patriotism, especially in favor of aggressive foreign policy",
+    "hint": "The newspaper's jingoism pushed for war long before diplomacy had failed.",
+    "word_id": 127
+  },
+  {
+    "word": "jubilant",
+    "definition": "feeling or expressing great happiness and triumph",
+    "hint": "The jubilant fans flooded the streets after their team won the championship.",
+    "word_id": 128
+  },
+  {
+    "word": "juxtapose",
+    "definition": "to place things side by side for comparison or contrast",
+    "hint": "The exhibit juxtaposes old photographs with modern images of the same street.",
+    "word_id": 129
+  },
+  {
+    "word": "languid",
+    "definition": "displaying a lack of energy; slow and relaxed",
+    "hint": "They spent a languid afternoon lounging by the pool with nothing to do.",
+    "word_id": 130
+  },
+  {
+    "word": "magnanimous",
+    "definition": "generous or forgiving, especially toward a rival",
+    "hint": "In a magnanimous gesture, the winning team praised their opponents' effort.",
+    "word_id": 131
+  },
+  {
+    "word": "mollify",
+    "definition": "to calm or soothe someone's anger",
+    "hint": "The manager offered a refund to mollify the frustrated customer.",
+    "word_id": 132
+  },
+  {
+    "word": "negligible",
+    "definition": "so small or unimportant as to not be worth considering",
+    "hint": "The difference in price between the two models is negligible.",
+    "word_id": 133
+  },
+  {
+    "word": "panache",
+    "definition": "flamboyant confidence of style or manner",
+    "hint": "She delivered the speech with such panache that the audience burst into applause.",
+    "word_id": 134
+  },
+  {
+    "word": "precocious",
+    "definition": "showing advanced ability or maturity at an unusually early age",
+    "hint": "The precocious eight-year-old was already reading novels meant for teenagers.",
+    "word_id": 135
+  },
+  {
+    "word": "quotidian",
+    "definition": "of or occurring every day; ordinary",
+    "hint": "The novel finds beauty in the quotidian details of an ordinary family's life.",
+    "word_id": 136
+  },
+  {
+    "word": "refractory",
+    "definition": "stubborn and resistant to control or authority",
+    "hint": "The refractory patient refused to follow the doctor's treatment plan.",
+    "word_id": 137
+  },
+  {
+    "word": "rudimentary",
+    "definition": "basic or elementary; not fully developed",
+    "hint": "He only had a rudimentary understanding of the software before the training began.",
+    "word_id": 138
+  },
+  {
+    "word": "spurious",
+    "definition": "not genuine or authentic; false",
+    "hint": "The study's spurious correlation between the two variables misled many readers.",
+    "word_id": 139
+  },
+  {
+    "word": "staunch",
+    "definition": "loyal and committed in attitude",
+    "hint": "She remained a staunch supporter of the cause even when it became unpopular.",
+    "word_id": 140
+  },
+  {
+    "word": "subsume",
+    "definition": "to include or absorb something into a larger category",
+    "hint": "The smaller startup was eventually subsumed by the larger tech conglomerate.",
+    "word_id": 141
+  },
+  {
+    "word": "supplant",
+    "definition": "to take the place of, especially by force or scheming",
+    "hint": "The new software quickly supplanted the outdated system used for decades.",
+    "word_id": 142
+  },
+  {
+    "word": "tantamount",
+    "definition": "equivalent in seriousness or effect to something else",
+    "hint": "Refusing to answer the question was tantamount to admitting guilt.",
+    "word_id": 143
+  },
+  {
+    "word": "tenacious",
+    "definition": "holding firmly to something; persistent",
+    "hint": "Her tenacious pursuit of the story eventually uncovered the truth.",
+    "word_id": 144
+  },
+  {
+    "word": "travesty",
+    "definition": "a false, absurd, or distorted representation of something",
+    "hint": "Critics called the trial a travesty of justice.",
+    "word_id": 145
+  },
+  {
+    "word": "treacherous",
+    "definition": "guilty of betrayal; dangerously unreliable",
+    "hint": "The treacherous mountain path was covered in loose rocks and ice.",
+    "word_id": 146
+  },
+  {
+    "word": "unequivocal",
+    "definition": "leaving no doubt; completely clear",
+    "hint": "The board gave an unequivocal yes to the merger proposal.",
+    "word_id": 147
+  },
+  {
+    "word": "vehement",
+    "definition": "showing strong and passionate feeling",
+    "hint": "He gave a vehement denial of the accusations against him.",
+    "word_id": 148
+  },
+  {
+    "word": "vilify",
+    "definition": "to speak or write about someone in an abusively disparaging manner",
+    "hint": "The press vilified the coach after the team's shocking loss.",
+    "word_id": 149
+  },
+  {
+    "word": "aberrant",
+    "definition": "departing from an accepted standard; markedly different from the norm",
+    "hint": "The unusually high test result was flagged as aberrant and the sample was retested.",
+    "word_id": 150
+  },
+  {
+    "word": "abstruse",
+    "definition": "difficult to understand; obscure",
+    "hint": "The philosophy lecture became so abstruse that half the class stopped taking notes.",
+    "word_id": 151
+  },
+  {
+    "word": "acerbic",
+    "definition": "sharply critical or sarcastic in tone",
+    "hint": "Her acerbic wit made her both feared and beloved among her coworkers.",
+    "word_id": 152
+  },
+  {
+    "word": "adamant",
+    "definition": "refusing to change one's mind; firmly resolute",
+    "hint": "He was adamant that he would finish the marathon despite the injury.",
+    "word_id": 153
+  },
+  {
+    "word": "admonitory",
+    "definition": "conveying a warning or reprimand",
+    "hint": "The teacher's admonitory tone made it clear that further lateness wouldn't be tolerated.",
+    "word_id": 154
+  },
+  {
+    "word": "apocryphal",
+    "definition": "of doubtful authenticity, although widely circulated as true",
+    "hint": "The story of the company's founder inventing the product in his garage is likely apocryphal.",
+    "word_id": 155
+  },
+  {
+    "word": "blatant",
+    "definition": "done openly and unashamedly; obvious",
+    "hint": "His blatant disregard for the rules got him ejected from the game.",
+    "word_id": 156
+  },
+  {
+    "word": "bumbling",
+    "definition": "acting in a clumsy or inept manner",
+    "hint": "The bumbling waiter dropped two trays before finally getting our order right.",
+    "word_id": 157
+  },
+  {
+    "word": "burgeon",
+    "definition": "to grow or develop rapidly",
+    "hint": "The city's tech industry began to burgeon after the new university opened.",
+    "word_id": 158
+  },
+  {
+    "word": "confound",
+    "definition": "to cause surprise or confusion; to prove wrong",
+    "hint": "The magician's trick confounded even the most skeptical members of the audience.",
+    "word_id": 159
+  },
+  {
+    "word": "construe",
+    "definition": "to interpret a word or action in a particular way",
+    "hint": "Her silence was construed as agreement, though she meant no such thing.",
+    "word_id": 160
+  },
+  {
+    "word": "contingent",
+    "definition": "dependent on certain circumstances; conditional",
+    "hint": "The picnic is contingent on the weather clearing up by noon.",
+    "word_id": 161
+  },
+  {
+    "word": "copious",
+    "definition": "abundant in supply or quantity",
+    "hint": "She took copious notes during every lecture, filling three notebooks a semester.",
+    "word_id": 162
+  },
+  {
+    "word": "decorum",
+    "definition": "behavior in keeping with good taste and propriety",
+    "hint": "Even during the heated debate, the moderator insisted on maintaining decorum.",
+    "word_id": 163
+  },
+  {
+    "word": "denigrate",
+    "definition": "to criticize unfairly; to belittle",
+    "hint": "He was quick to denigrate any idea that wasn't his own.",
+    "word_id": 164
+  },
+  {
+    "word": "discrete",
+    "definition": "individually separate and distinct",
+    "hint": "The project was broken into several discrete phases, each with its own deadline.",
+    "word_id": 165
+  },
+  {
+    "word": "eradicate",
+    "definition": "to completely destroy or eliminate something",
+    "hint": "The vaccination campaign helped eradicate the disease within a decade.",
+    "word_id": 166
+  },
+  {
+    "word": "espouse",
+    "definition": "to adopt or support a cause, belief, or way of life",
+    "hint": "She has long espoused the idea that education should be free for everyone.",
+    "word_id": 167
+  },
+  {
+    "word": "exacting",
+    "definition": "making great demands on one's skill, attention, or resources",
+    "hint": "The exacting standards of the head chef intimidated every new hire.",
+    "word_id": 168
+  },
+  {
+    "word": "exalt",
+    "definition": "to praise highly; to elevate in rank or status",
+    "hint": "The poem exalts the quiet courage of ordinary working people.",
+    "word_id": 169
+  },
+  {
+    "word": "exonerate",
+    "definition": "to clear someone of blame or guilt",
+    "hint": "New evidence eventually exonerated the man who had spent a decade in prison.",
+    "word_id": 170
+  },
+  {
+    "word": "expound",
+    "definition": "to explain a theory or idea in detail",
+    "hint": "The professor spent the entire lecture expounding on the causes of the revolution.",
+    "word_id": 171
+  },
+  {
+    "word": "forthcoming",
+    "definition": "about to happen soon; willing to give information",
+    "hint": "He was surprisingly forthcoming about the mistakes he'd made during the project.",
+    "word_id": 172
+  },
+  {
+    "word": "hackneyed",
+    "definition": "so overused as to be trite and unoriginal",
+    "hint": "The movie relied on hackneyed plot twists that audiences had seen a hundred times.",
+    "word_id": 173
+  },
+  {
+    "word": "iconoclastic",
+    "definition": "attacking or rejecting cherished beliefs and institutions",
+    "hint": "Her iconoclastic approach to teaching abandoned the traditional lecture format entirely.",
+    "word_id": 174
+  },
+  {
+    "word": "idiosyncrasy",
+    "definition": "a peculiar or distinctive habit or trait",
+    "hint": "One of his idiosyncrasies was always eating dessert before the main course.",
+    "word_id": 175
+  },
+  {
+    "word": "ignoble",
+    "definition": "not honorable in character or purpose",
+    "hint": "The general met an ignoble end, stripped of rank and exiled from his homeland.",
+    "word_id": 176
+  },
+  {
+    "word": "implacable",
+    "definition": "unable to be appeased or calmed; relentless",
+    "hint": "The two rival families remained implacable enemies for generations.",
+    "word_id": 177
+  },
+  {
+    "word": "implausible",
+    "definition": "not seeming reasonable or probable; hard to believe",
+    "hint": "The alibi seemed implausible given that three witnesses placed him at the scene.",
+    "word_id": 178
+  },
+  {
+    "word": "incorrigible",
+    "definition": "not able to be corrected, improved, or reformed",
+    "hint": "The incorrigible prankster kept getting detention despite every warning.",
+    "word_id": 179
+  },
+  {
+    "word": "indifference",
+    "definition": "lack of interest, concern, or sympathy",
+    "hint": "His indifference to the team's struggles frustrated the rest of the staff.",
+    "word_id": 180
+  },
+  {
+    "word": "ingratiate",
+    "definition": "to bring oneself into someone's favor by deliberate effort",
+    "hint": "He tried to ingratiate himself with the boss by volunteering for every extra task.",
+    "word_id": 181
+  },
+  {
+    "word": "intransigent",
+    "definition": "unwilling to change one's views or agree about something",
+    "hint": "Negotiations stalled because both sides remained intransigent on the key issue.",
+    "word_id": 182
+  },
+  {
+    "word": "largess",
+    "definition": "generosity in giving money or gifts to others",
+    "hint": "The billionaire's largess funded a dozen new schools across the region.",
+    "word_id": 183
+  },
+  {
+    "word": "laudable",
+    "definition": "deserving praise and commendation",
+    "hint": "Her laudable effort to organize the fundraiser earned recognition from the whole community.",
+    "word_id": 184
+  },
+  {
+    "word": "myopic",
+    "definition": "lacking imagination or foresight; short-sighted",
+    "hint": "Critics called the policy myopic, solving today's problem while creating a bigger one tomorrow.",
+    "word_id": 185
+  },
+  {
+    "word": "opaque",
+    "definition": "not transparent; hard to understand or see through",
+    "hint": "The company's opaque pricing structure left customers unsure what they were paying for.",
+    "word_id": 186
+  },
+  {
+    "word": "ostentatious",
+    "definition": "designed to impress or attract notice; showy",
+    "hint": "His ostentatious mansion, complete with gold fixtures, seemed built purely to impress guests.",
+    "word_id": 187
+  },
+  {
+    "word": "pedantic",
+    "definition": "excessively concerned with minor details or rules",
+    "hint": "The professor's pedantic focus on citation formatting overshadowed the actual content of the essays.",
+    "word_id": 188
+  },
+  {
+    "word": "petulant",
+    "definition": "childishly sulky or bad-tempered",
+    "hint": "The petulant child threw a tantrum when told it was time to leave the park.",
+    "word_id": 189
+  },
+  {
+    "word": "pragmatic",
+    "definition": "dealing with things sensibly and realistically",
+    "hint": "Rather than chase an ideal solution, she took a pragmatic approach that worked within the budget.",
+    "word_id": 190
+  },
+  {
+    "word": "provincial",
+    "definition": "narrow-minded or unsophisticated; limited in outlook",
+    "hint": "His provincial attitude made him skeptical of anything outside his hometown.",
+    "word_id": 191
+  },
+  {
+    "word": "pundit",
+    "definition": "an expert who gives opinions publicly, especially in the media",
+    "hint": "The political pundit predicted the election results weeks before voting began.",
+    "word_id": 192
+  },
+  {
+    "word": "reconcile",
+    "definition": "to restore friendly relations; to make consistent",
+    "hint": "It took years for the estranged brothers to finally reconcile.",
+    "word_id": 193
+  },
+  {
+    "word": "refute",
+    "definition": "to prove a statement or theory to be wrong",
+    "hint": "The scientist's new data refuted decades of accepted theory.",
+    "word_id": 194
+  },
+  {
+    "word": "soporific",
+    "definition": "tending to induce drowsiness or sleep",
+    "hint": "The lecturer's monotone voice had a soporific effect on the entire room.",
+    "word_id": 195
+  },
+  {
+    "word": "temperance",
+    "definition": "moderation or self-restraint, especially in consumption",
+    "hint": "He practiced temperance at the buffet, taking small portions of everything.",
+    "word_id": 196
+  },
+  {
+    "word": "tortuous",
+    "definition": "full of twists and turns; excessively lengthy and complex",
+    "hint": "The tortuous mountain road made even experienced drivers nervous.",
+    "word_id": 197
+  },
+  {
+    "word": "underscore",
+    "definition": "to emphasize or give importance to something",
+    "hint": "The report's findings underscore the urgent need for better infrastructure.",
+    "word_id": 198
+  },
+  {
+    "word": "unscrupulous",
+    "definition": "having or showing no moral principles; dishonest",
+    "hint": "The unscrupulous dealer sold cars he knew were unsafe to drive.",
+    "word_id": 199
+  },
+  {
+    "word": "accolade",
+    "definition": "an award or praise given in recognition of achievement",
+    "hint": "Winning the prize was just one of many accolades she received during her career.",
+    "word_id": 200
+  },
+  {
+    "word": "admonish",
+    "definition": "to warn or reprimand someone firmly",
+    "hint": "The lifeguard admonished the swimmers for going past the marked boundary.",
+    "word_id": 201
+  },
+  {
+    "word": "antithetical",
+    "definition": "directly opposed or contrasted; mutually incompatible",
+    "hint": "His laid-back attitude was antithetical to the company's high-pressure culture.",
+    "word_id": 202
+  },
+  {
+    "word": "arbitrary",
+    "definition": "based on random choice rather than reason or system",
+    "hint": "The judge's arbitrary ruling seemed to ignore the evidence presented in court.",
+    "word_id": 203
+  },
+  {
+    "word": "arcane",
+    "definition": "understood by very few; mysterious and secret",
+    "hint": "The manual was full of arcane legal terms that confused most readers.",
+    "word_id": 204
+  },
+  {
+    "word": "audacity",
+    "definition": "boldness or daring, often in a way that risks offense",
+    "hint": "She had the audacity to demand a refund after using the product for a year.",
+    "word_id": 205
+  },
+  {
+    "word": "austere",
+    "definition": "severe or strict in manner; plain and simple",
+    "hint": "The monastery's austere rooms contained nothing but a bed and a small desk.",
+    "word_id": 206
+  },
+  {
+    "word": "brazen",
+    "definition": "bold and without shame or embarrassment",
+    "hint": "In a brazen move, he walked out of the store without even trying to hide the theft.",
+    "word_id": 207
+  },
+  {
+    "word": "circumscribe",
+    "definition": "to restrict within limits; to draw a line around",
+    "hint": "New regulations circumscribed how much land the company could develop.",
+    "word_id": 208
+  },
+  {
+    "word": "constituent",
+    "definition": "a component part of something; a voting member of a district",
+    "hint": "Every constituent part of the engine had to be inspected before the flight.",
+    "word_id": 209
+  },
+  {
+    "word": "dilettante",
+    "definition": "a person with a superficial interest in an art or subject",
+    "hint": "He called himself a photographer, but his friends saw him as more of a dilettante.",
+    "word_id": 210
+  },
+  {
+    "word": "foment",
+    "definition": "to instigate or stir up trouble or discontent",
+    "hint": "The pamphlets were designed to foment rebellion among the exhausted workers.",
+    "word_id": 211
+  },
+  {
+    "word": "garrulous",
+    "definition": "excessively talkative, especially about trivial matters",
+    "hint": "The garrulous cab driver talked nonstop for the entire forty-minute ride.",
+    "word_id": 212
+  },
+  {
+    "word": "gauche",
+    "definition": "socially awkward or tactless",
+    "hint": "Asking about her salary at dinner was a gauche thing to do.",
+    "word_id": 213
+  },
+  {
+    "word": "haphazard",
+    "definition": "lacking any obvious organization or plan; random",
+    "hint": "The files were stored in such a haphazard way that nothing could be found quickly.",
+    "word_id": 214
+  },
+  {
+    "word": "hegemony",
+    "definition": "dominance of one group or country over others",
+    "hint": "The empire maintained hegemony over the region for nearly three centuries.",
+    "word_id": 215
+  },
+  {
+    "word": "inimical",
+    "definition": "tending to obstruct or harm; hostile",
+    "hint": "The new policy proved inimical to small business growth.",
+    "word_id": 216
+  },
+  {
+    "word": "inscrutable",
+    "definition": "impossible to understand or interpret",
+    "hint": "His inscrutable expression gave no hint of whether he approved of the plan.",
+    "word_id": 217
+  },
+  {
+    "word": "insolent",
+    "definition": "showing a rude and arrogant lack of respect",
+    "hint": "The insolent teenager rolled his eyes at every instruction from the teacher.",
+    "word_id": 218
+  },
+  {
+    "word": "intrepid",
+    "definition": "fearless and adventurous",
+    "hint": "The intrepid explorers pushed on despite the freezing conditions.",
+    "word_id": 219
+  },
+  {
+    "word": "inveterate",
+    "definition": "having a long-established habit that is unlikely to change",
+    "hint": "He was an inveterate collector of vintage watches, unable to pass one up.",
+    "word_id": 220
+  },
+  {
+    "word": "irrevocable",
+    "definition": "not able to be changed, reversed, or recovered",
+    "hint": "Signing the contract made the sale of the house irrevocable.",
+    "word_id": 221
+  },
+  {
+    "word": "lionize",
+    "definition": "to treat someone as a celebrity or hero",
+    "hint": "After the rescue, the firefighter was lionized by the entire town.",
+    "word_id": 222
+  },
+  {
+    "word": "munificent",
+    "definition": "more generous than usual or necessary",
+    "hint": "The munificent donation covered the entire cost of the new library wing.",
+    "word_id": 223
+  },
+  {
+    "word": "myriad",
+    "definition": "a countless or extremely great number",
+    "hint": "The festival offered a myriad of food stalls representing cuisines from around the world.",
+    "word_id": 224
+  },
+  {
+    "word": "obsequious",
+    "definition": "excessively eager to please or obey; fawning",
+    "hint": "The obsequious assistant agreed with every single thing the director said.",
+    "word_id": 225
+  },
+  {
+    "word": "ostracize",
+    "definition": "to exclude someone from a society or group",
+    "hint": "After the scandal broke, his former friends began to ostracize him completely.",
+    "word_id": 226
+  },
+  {
+    "word": "pedestrian",
+    "definition": "lacking excitement or imagination; ordinary",
+    "hint": "The film's pedestrian plot failed to hold the audience's attention.",
+    "word_id": 227
+  },
+  {
+    "word": "pernicious",
+    "definition": "having a harmful effect, especially gradually or subtly",
+    "hint": "The pernicious rumor spread quietly through the office for weeks before anyone noticed.",
+    "word_id": 228
+  },
+  {
+    "word": "poignant",
+    "definition": "evoking a keen sense of sadness or regret",
+    "hint": "The final scene of the film was so poignant that the whole theater fell silent.",
+    "word_id": 229
+  },
+  {
+    "word": "precipitous",
+    "definition": "dangerously steep; happening suddenly and quickly",
+    "hint": "The company's stock took a precipitous drop after the scandal broke.",
+    "word_id": 230
+  },
+  {
+    "word": "prodigious",
+    "definition": "remarkably or impressively great in extent or size",
+    "hint": "The young pianist showed prodigious talent, mastering pieces well beyond her age.",
+    "word_id": 231
+  },
+  {
+    "word": "prolific",
+    "definition": "producing much fruit, output, or work",
+    "hint": "The prolific author published more than thirty novels over her career.",
+    "word_id": 232
+  },
+  {
+    "word": "propitious",
+    "definition": "giving or indicating a good chance of success; favorable",
+    "hint": "The calm seas and clear skies made for a propitious day to set sail.",
+    "word_id": 233
+  },
+  {
+    "word": "ravenous",
+    "definition": "extremely hungry",
+    "hint": "After the long hike, the campers were ravenous and devoured the entire meal.",
+    "word_id": 234
+  },
+  {
+    "word": "repudiate",
+    "definition": "to refuse to accept or be associated with; to reject",
+    "hint": "He publicly repudiated the extremist views once held by his old political party.",
+    "word_id": 235
+  },
+  {
+    "word": "rescind",
+    "definition": "to cancel or revoke an official decision or agreement",
+    "hint": "The university rescinded his admission after discovering he had lied on the application.",
+    "word_id": 236
+  },
+  {
+    "word": "resurgent",
+    "definition": "increasing or reviving after a period of decline",
+    "hint": "The resurgent interest in vinyl records has helped many small record shops survive.",
+    "word_id": 237
+  },
+  {
+    "word": "reverent",
+    "definition": "feeling or showing deep and respectful admiration",
+    "hint": "The crowd fell into a reverent silence as the ceremony began.",
+    "word_id": 238
+  },
+  {
+    "word": "sanction",
+    "definition": "official permission or approval; a penalty for disobeying a rule",
+    "hint": "The United Nations imposed economic sanctions on the country after the invasion.",
+    "word_id": 239
+  },
+  {
+    "word": "scrupulous",
+    "definition": "diligent and careful about moral or ethical matters; thorough",
+    "hint": "She was scrupulous about crediting every source in her research paper.",
+    "word_id": 240
+  },
+  {
+    "word": "sporadic",
+    "definition": "occurring occasionally or at irregular intervals",
+    "hint": "Sporadic gunfire could still be heard in the distance long after the ceasefire.",
+    "word_id": 241
+  },
+  {
+    "word": "subversive",
+    "definition": "seeking to undermine an established system or institution",
+    "hint": "The government banned the pamphlets, calling them subversive propaganda.",
+    "word_id": 242
+  },
+  {
+    "word": "sycophant",
+    "definition": "a person who flatters someone powerful to gain advantage",
+    "hint": "The CEO surrounded himself with sycophants who never challenged his ideas.",
+    "word_id": 243
+  },
+  {
+    "word": "taciturn",
+    "definition": "reserved or uncommunicative in speech",
+    "hint": "The taciturn farmer answered questions with little more than a nod.",
+    "word_id": 244
+  },
+  {
+    "word": "tempered",
+    "definition": "moderated or restrained; made less extreme",
+    "hint": "His optimism was tempered by years of hard-earned experience.",
+    "word_id": 245
+  },
+  {
+    "word": "tractable",
+    "definition": "easy to control or influence; manageable",
+    "hint": "The young horse proved far more tractable than the trainers had expected.",
+    "word_id": 246
+  },
+  {
+    "word": "trite",
+    "definition": "overused and lacking originality or freshness",
+    "hint": "The speech was full of trite phrases that failed to inspire anyone.",
+    "word_id": 247
+  },
+  {
+    "word": "vacillate",
+    "definition": "to waver between different opinions or actions; to be indecisive",
+    "hint": "She continued to vacillate between the two job offers for nearly a week.",
+    "word_id": 248
+  },
+  {
+    "word": "winsome",
+    "definition": "attractive or appealing in a charming, innocent way",
+    "hint": "The puppy's winsome expression made it impossible for them to leave the shelter without it.",
+    "word_id": 249
+  },
+  {
+    "word": "abate",
+    "definition": "to become less intense or severe",
+    "hint": "The storm finally began to abate after raging for nearly six hours.",
+    "word_id": 250
+  },
+  {
+    "word": "acumen",
+    "definition": "the ability to make good judgments and quick decisions",
+    "hint": "Her sharp business acumen helped the small shop grow into a national chain.",
+    "word_id": 251
+  },
+  {
+    "word": "adulterate",
+    "definition": "to make impure by adding an inferior or foreign substance",
+    "hint": "The company was fined for adulterating its olive oil with cheaper vegetable oil.",
+    "word_id": 252
+  },
+  {
+    "word": "alleviate",
+    "definition": "to make suffering or a problem less severe",
+    "hint": "The new medication helped alleviate much of the patient's chronic pain.",
+    "word_id": 253
+  },
+  {
+    "word": "approbation",
+    "definition": "approval or praise, especially official",
+    "hint": "The council gave its formal approbation to the new housing plan.",
+    "word_id": 254
+  },
+  {
+    "word": "articulate",
+    "definition": "able to express thoughts clearly and effectively",
+    "hint": "Even as a nervous first-time speaker, she was remarkably articulate.",
+    "word_id": 255
+  },
+  {
+    "word": "aver",
+    "definition": "to state or assert something to be the case",
+    "hint": "The witness averred that she had seen the car run the red light.",
+    "word_id": 256
+  },
+  {
+    "word": "bombastic",
+    "definition": "using inflated or pompous language with little substance",
+    "hint": "His bombastic speech was full of grand words but offered no real plan.",
+    "word_id": 257
+  },
+  {
+    "word": "chicanery",
+    "definition": "the use of trickery to achieve a political, financial, or legal purpose",
+    "hint": "The deal collapsed once investigators uncovered years of financial chicanery.",
+    "word_id": 258
+  },
+  {
+    "word": "circumspect",
+    "definition": "wary and careful to consider all circumstances",
+    "hint": "After the last failed investment, she became far more circumspect about new opportunities.",
+    "word_id": 259
+  },
+  {
+    "word": "clamor",
+    "definition": "a loud, confused noise, especially of shouting",
+    "hint": "The clamor of the crowd outside made it hard to hear the announcement.",
+    "word_id": 260
+  },
+  {
+    "word": "compliant",
+    "definition": "inclined to comply with rules or requests; submissive",
+    "hint": "The new equipment had to be fully compliant with the updated safety regulations.",
+    "word_id": 261
+  },
+  {
+    "word": "connoisseur",
+    "definition": "an expert judge in matters of taste, especially in the arts",
+    "hint": "A true connoisseur of fine wine, he could name the vineyard after a single sip.",
+    "word_id": 262
+  },
+  {
+    "word": "covert",
+    "definition": "not openly acknowledged or displayed; secret",
+    "hint": "The spy carried out a covert mission that no one in the government would confirm.",
+    "word_id": 263
+  },
+  {
+    "word": "desiccate",
+    "definition": "to remove the moisture from; to dry out thoroughly",
+    "hint": "The intense desert heat quickly desiccated anything left uncovered.",
+    "word_id": 264
+  },
+  {
+    "word": "deterrent",
+    "definition": "something that discourages an action or event through fear of consequences",
+    "hint": "The company installed cameras as a deterrent against shoplifting.",
+    "word_id": 265
+  },
+  {
+    "word": "dissent",
+    "definition": "to disagree with an official or accepted opinion",
+    "hint": "One justice chose to dissent from the majority's ruling, writing a lengthy opinion.",
+    "word_id": 266
+  },
+  {
+    "word": "divest",
+    "definition": "to deprive or strip someone of a right, title, or possession",
+    "hint": "The university decided to divest its endowment from fossil fuel companies.",
+    "word_id": 267
+  },
+  {
+    "word": "efficacy",
+    "definition": "the ability to produce a desired or intended result",
+    "hint": "Clinical trials were conducted to test the vaccine's efficacy.",
+    "word_id": 268
+  },
+  {
+    "word": "eloquent",
+    "definition": "fluent and persuasive in speaking or writing",
+    "hint": "Her eloquent tribute to her mentor left much of the audience in tears.",
+    "word_id": 269
+  },
+  {
+    "word": "epitome",
+    "definition": "a perfect example of a particular quality or type",
+    "hint": "With its marble floors and grand staircase, the mansion was the epitome of luxury.",
+    "word_id": 270
+  },
+  {
+    "word": "eulogy",
+    "definition": "a speech or piece of writing praising someone, typically one who has died",
+    "hint": "His closest friend delivered a moving eulogy at the funeral.",
+    "word_id": 271
+  },
+  {
+    "word": "explicit",
+    "definition": "stated clearly and in detail, leaving no room for confusion",
+    "hint": "The instructions were explicit, listing every step in exact order.",
+    "word_id": 272
+  },
+  {
+    "word": "facilitate",
+    "definition": "to make an action or process easier",
+    "hint": "The new software was designed to facilitate communication between departments.",
+    "word_id": 273
+  },
+  {
+    "word": "fervid",
+    "definition": "intensely enthusiastic or passionate",
+    "hint": "The fervid crowd chanted the team's name long after the final whistle.",
+    "word_id": 274
+  },
+  {
+    "word": "guile",
+    "definition": "sly or cunning intelligence used to deceive",
+    "hint": "He used guile rather than force to talk his way past the guards.",
+    "word_id": 275
+  },
+  {
+    "word": "gullible",
+    "definition": "easily persuaded to believe something; credulous",
+    "hint": "The gullible investor lost his savings to a scheme that promised impossible returns.",
+    "word_id": 276
+  },
+  {
+    "word": "homogeneous",
+    "definition": "consisting of parts or elements that are all the same",
+    "hint": "The committee wanted a more diverse group rather than the homogeneous panel they'd had before.",
+    "word_id": 277
   },
   {
     "word": "implicit",
     "definition": "suggested though not directly expressed",
-    "hint": "Her criticism was implicit; she never named him, but everyone knew whom she meant.",
-    "word_id": 109
-  },
-  {
-    "word": "implode",
-    "definition": "burst inward",
-    "hint": "The metal tank began to implode when the pressure inside dropped suddenly.",
-    "word_id": 114
-  },
-  {
-    "word": "inadvertently",
-    "definition": "without knowledge or intention",
-    "hint": "He inadvertently deleted the file while trying to reorganize the folder.",
-    "word_id": 119
-  },
-  {
-    "word": "inchoate",
-    "definition": "only partly in existence; imperfectly formed",
-    "hint": "The proposal remained inchoate, with no clear plan for how to implement it.",
-    "word_id": 124
-  },
-  {
-    "word": "incongruity",
-    "definition": "the quality of disagreeing",
-    "hint": "The obvious incongruity between the modern building and its historic neighbors made it stand out.",
-    "word_id": 129
-  },
-  {
-    "word": "inconsequential",
-    "definition": "lacking worth or importance",
-    "hint": "The difference was so inconsequential that no one thought it worth discussing further.",
-    "word_id": 134
-  },
-  {
-    "word": "incorporate",
-    "definition": "make into a whole or make part of a whole",
-    "hint": "The two companies decided to incorporate their operations into a single organization.",
-    "word_id": 139
-  },
-  {
-    "word": "indeterminate",
-    "definition": "not fixed or known in advance",
-    "hint": "Because demand was unpredictable, the final cost remained indeterminate.",
-    "word_id": 144
-  },
-  {
-    "word": "indigence",
-    "definition": "a state of extreme poverty or destitution",
-    "hint": "The charity provides food and housing to people living in extreme indigence.",
-    "word_id": 149
-  },
-  {
-    "word": "indolent",
-    "definition": "disinclined to work or exertion",
-    "hint": "He was so indolent that he preferred to postpone simple tasks until the deadline was close.",
-    "word_id": 154
-  },
-  {
-    "word": "inert",
-    "definition": "unable to move or resist motion",
-    "hint": "The heavy machine remained completely inert after its motor failed.",
-    "word_id": 159
-  },
-  {
-    "word": "ingenuous",
-    "definition": "lacking in sophistication or worldliness",
-    "hint": "His ingenuous approach to negotiation made him easy for experienced dealers to manipulate.",
-    "word_id": 165
-  },
-  {
-    "word": "inherent",
-    "definition": "existing as an essential constituent or characteristic",
-    "hint": "Curiosity is an inherent part of scientific thinking.",
-    "word_id": 170
-  },
-  {
-    "word": "innocuous",
-    "definition": "not injurious to physical or mental health",
-    "hint": "The chemical is generally innocuous in small quantities, so the lab workers do not need protective suits.",
-    "word_id": 175
-  },
-  {
-    "word": "insensible",
-    "definition": "barely able to be perceived",
-    "hint": "The old radio signal was so faint that it was almost insensible.",
-    "word_id": 180
-  },
-  {
-    "word": "insinuate",
-    "definition": "suggest in an indirect or covert way; give to understand",
-    "hint": "The article seemed to insinuate that the company had hidden the evidence, without saying so directly.",
-    "word_id": 185
-  },
-  {
-    "word": "insipid",
-    "definition": "lacking interest or significance or impact",
-    "hint": "The lecture was so insipid that half the audience stopped taking notes.",
-    "word_id": 190
-  },
-  {
-    "word": "insularity",
-    "definition": "lack of openness to new ideas; narrow-mindedness",
-    "hint": "Years spent in a single intellectual community gave him an unfortunate sense of insularity.",
-    "word_id": 195
-  },
-  {
-    "word": "intractable",
-    "definition": "difficult to manage or mold",
-    "hint": "The child was bright but so intractable that every attempt at discipline failed.",
-    "word_id": 200
-  },
-  {
-    "word": "intransigence",
-    "definition": "stubborn refusal to compromise or change",
-    "hint": "Their intransigence made it impossible for the negotiations to move forward.",
-    "word_id": 205
-  },
-  {
-    "word": "inundate",
-    "definition": "fill or cover completely, usually with water",
-    "hint": "Heavy rain began to inundate the streets, forcing residents onto higher ground.",
-    "word_id": 210
-  },
-  {
-    "word": "inured",
-    "definition": "made tough by habitual exposure",
-    "hint": "After years of working outdoors, she had become inured to heat and cold.",
-    "word_id": 215
-  },
-  {
-    "word": "invective",
-    "definition": "abusive language used to express blame or censure",
-    "hint": "The article contained so much invective that readers could barely find any substantive criticism.",
-    "word_id": 220
-  },
-  {
-    "word": "irascible",
-    "definition": "quickly aroused to anger",
-    "hint": "Because he was so irascible, even a mild criticism could trigger an argument.",
-    "word_id": 225
-  },
-  {
-    "word": "irresolute",
-    "definition": "uncertain how to act or proceed",
-    "hint": "The committee remained irresolute and could not decide which proposal to support.",
-    "word_id": 230
-  },
-  {
-    "word": "laconic",
-    "definition": "brief and to the point",
-    "hint": "His answer was so laconic that the interview ended in less than ten minutes.",
-    "word_id": 240
-  },
-  {
-    "word": "lassitude",
-    "definition": "a feeling of lack of interest or energy",
-    "hint": "After weeks without rest, she was overcome by lassitude and could barely concentrate.",
-    "word_id": 245
-  },
-  {
-    "word": "laud",
-    "definition": "praise, glorify, or honor",
-    "hint": "Critics continued to laud the scientist for her groundbreaking work.",
-    "word_id": 10
-  },
-  {
-    "word": "lethargic",
-    "definition": "deficient in alertness or activity",
-    "hint": "After the long flight, she felt too lethargic to do any serious work.",
-    "word_id": 15
-  },
-  {
-    "word": "levee",
-    "definition": "an embankment built to prevent a river from overflowing",
-    "hint": "The town strengthened its levee before the river rose during monsoon season.",
-    "word_id": 20
-  },
-  {
-    "word": "levity",
-    "definition": "a manner lacking seriousness",
-    "hint": "His comments about the crisis were full of levity and annoyed the people trying to solve it.",
-    "word_id": 25
-  },
-  {
-    "word": "log",
-    "definition": "a segment of the trunk of a tree when stripped of branches",
-    "hint": "The fallen log blocked the narrow forest path.",
-    "word_id": 30
-  },
-  {
-    "word": "loquacious",
-    "definition": "full of trivial conversation",
-    "hint": "At the party, his endless loquacious about minor details exhausted everyone around him.",
-    "word_id": 35
-  },
-  {
-    "word": "lucid",
-    "definition": "transparently clear; easily understandable",
-    "hint": "Her explanation was so lucid that even beginners understood the complicated process.",
-    "word_id": 40
-  },
-  {
-    "word": "magnanimity",
-    "definition": "nobility and generosity of spirit",
-    "hint": "He showed great magnanimity by forgiving the rival who had publicly insulted him.",
-    "word_id": 50
-  },
-  {
-    "word": "malingerer",
-    "definition": "someone shirking duty by feigning illness or incapacity",
-    "hint": "The supervisor suspected the employee was a malingerer because he suddenly claimed to be ill whenever work increased.",
-    "word_id": 55
-  },
-  {
-    "word": "malleable",
-    "definition": "capable of being shaped or bent",
-    "hint": "The metal is so malleable that workers can bend it without breaking it.",
-    "word_id": 60
-  },
-  {
-    "word": "maverick",
-    "definition": "someone who exhibits independence in thought and action",
-    "hint": "The maverick scientist ignored the fashionable theory and pursued her own explanation.",
-    "word_id": 65
-  },
-  {
-    "word": "mendacious",
-    "definition": "given to lying",
-    "hint": "Because he was known to be mendacious, reporters checked every statement against independent records.",
-    "word_id": 70
-  },
-  {
-    "word": "metamorphosis",
-    "definition": "striking change in appearance or character or circumstances",
-    "hint": "The caterpillar undergoes a dramatic metamorphosis before emerging as a butterfly.",
-    "word_id": 75
-  },
-  {
-    "word": "meticulous",
-    "definition": "marked by precise accordance with details",
-    "hint": "Her meticulous attention to every decimal place caught the error that everyone else had missed.",
-    "word_id": 80
-  },
-  {
-    "word": "misanthrope",
-    "definition": "someone who dislikes people in general",
-    "hint": "The retired professor became something of a misanthrope, avoiding parties and refusing invitations.",
-    "word_id": 85
-  },
-  {
-    "word": "mitigate",
-    "definition": "lessen or to try to lessen the seriousness or extent of",
-    "hint": "The new safety measures should mitigate the risk of accidents.",
-    "word_id": 90
-  },
-  {
-    "word": "mollify",
-    "definition": "cause to be more favorably inclined",
-    "hint": "The diplomat offered concessions in an attempt to mollify the angry officials.",
-    "word_id": 95
-  },
-  {
-    "word": "morose",
-    "definition": "showing a brooding ill humor",
-    "hint": "He spent the afternoon in a morose mood, barely speaking to anyone.",
-    "word_id": 100
-  },
-  {
-    "word": "mundane",
-    "definition": "found in the ordinary course of events",
-    "hint": "For most office workers, answering routine emails is a mundane part of the day.",
-    "word_id": 105
-  },
-  {
-    "word": "negate",
-    "definition": "make ineffective by counterbalancing the effect of",
-    "hint": "The witness’s new evidence could negate the prosecution’s main argument.",
-    "word_id": 110
-  },
-  {
-    "word": "neophyte",
-    "definition": "a participant with no experience with an activity",
-    "hint": "As a neophyte to academic research, she spent the first few months learning basic methods.",
-    "word_id": 115
-  },
-  {
-    "word": "obdurate",
-    "definition": "stubbornly persistent in wrongdoing",
-    "hint": "Despite repeated warnings, the obdurate tenant refused to follow the building rules.",
-    "word_id": 120
-  },
-  {
-    "word": "obsequious",
-    "definition": "attempting to win favor from influential people by flattery",
-    "hint": "The assistant’s obsequious compliments became obvious once she started asking the director for special treatment.",
-    "word_id": 125
-  },
-  {
-    "word": "obviate",
-    "definition": "do away with",
-    "hint": "The new system was designed to obviate the need for paper forms.",
-    "word_id": 130
-  },
-  {
-    "word": "occlude",
-    "definition": "block passage through",
-    "hint": "A buildup of debris could occlude the narrow pipe and stop the water supply.",
-    "word_id": 135
-  },
-  {
-    "word": "officious",
-    "definition": "intrusive in a meddling or offensive manner",
-    "hint": "His officious habit of correcting everyone’s work quickly annoyed the entire team.",
-    "word_id": 140
-  },
-  {
-    "word": "onerous",
-    "definition": "burdensome or difficult to endure",
-    "hint": "The paperwork had become so onerous that employees spent hours filling out forms.",
-    "word_id": 145
-  },
-  {
-    "word": "opprobrium",
-    "definition": "a state of extreme dishonor",
-    "hint": "The official resigned after the scandal brought widespread opprobrium upon the institution.",
-    "word_id": 150
-  },
-  {
-    "word": "oscillate",
-    "definition": "move or swing from side to side regularly",
-    "hint": "The pendulum continued to oscillate between the two positions.",
-    "word_id": 155
-  },
-  {
-    "word": "ostentatious",
-    "definition": "intended to attract notice and impress others",
-    "hint": "The billionaire arrived in an ostentatious car covered with custom gold detailing.",
-    "word_id": 160
-  },
-  {
-    "word": "paragon",
-    "definition": "a perfect embodiment of a concept",
-    "hint": "She is regarded as a paragon of patience and professionalism.",
-    "word_id": 166
-  },
-  {
-    "word": "partisan",
-    "definition": "a fervent and even militant proponent of something",
-    "hint": "He became a fierce partisan of the reform and defended it at every meeting.",
-    "word_id": 171
-  },
-  {
-    "word": "pathological",
-    "definition": "relating to the study of diseases",
-    "hint": "The doctor suspected a pathological condition after examining the diseased tissue.",
-    "word_id": 176
-  },
-  {
-    "word": "paucity",
-    "definition": "an insufficient quantity or number",
-    "hint": "A paucity of volunteers meant the organizers could not open all the planned booths.",
-    "word_id": 181
-  },
-  {
-    "word": "pedantic",
-    "definition": "marked by a narrow focus on or display of learning",
-    "hint": "His pedantic correction of every minor grammatical detail irritated the rest of the class.",
-    "word_id": 186
-  },
-  {
-    "word": "penchant",
-    "definition": "a strong liking or preference",
-    "hint": "She has a pronounced penchant for historical novels over contemporary fiction.",
-    "word_id": 191
-  },
-  {
-    "word": "penury",
-    "definition": "a state of extreme poverty or destitution",
-    "hint": "The charity provides food and housing to people living in extreme penury.",
-    "word_id": 196
-  },
-  {
-    "word": "perennial",
-    "definition": "lasting an indefinitely long time",
-    "hint": "The company faced a perennial shortage of skilled workers unless it changed its training program.",
-    "word_id": 201
-  },
-  {
-    "word": "perfidious",
-    "definition": "tending to betray",
-    "hint": "The spy was accused of a perfidious act after secretly selling information to the enemy.",
-    "word_id": 206
-  },
-  {
-    "word": "perfunctory",
-    "definition": "hasty and without attention to detail; not thorough",
-    "hint": "The inspector gave the building only a perfunctory glance before signing the form.",
-    "word_id": 211
-  },
-  {
-    "word": "permeable",
-    "definition": "allowing fluids or gases to pass or diffuse through",
-    "hint": "The fabric is permeable, allowing air to circulate while keeping the texture light.",
-    "word_id": 216
-  },
-  {
-    "word": "pervasive",
-    "definition": "spreading or spread throughout",
-    "hint": "Mobile phones have become pervasive in everyday life.",
-    "word_id": 221
-  },
-  {
-    "word": "phlegmatic",
-    "definition": "showing little emotion",
-    "hint": "The actor delivered the tragic news in an unusually phlegmatic tone.",
-    "word_id": 226
-  },
-  {
-    "word": "piety",
-    "definition": "righteousness by virtue of being religiously devout",
-    "hint": "Her daily prayers and charitable work reflected deep piety.",
-    "word_id": 231
-  },
-  {
-    "word": "placate",
-    "definition": "cause to be more favorably inclined",
-    "hint": "The diplomat offered concessions in an attempt to placate the angry officials.",
-    "word_id": 236
-  },
-  {
-    "word": "plasticity",
-    "definition": "the property of being physically malleable",
-    "hint": "The clay’s plasticity allows artists to reshape it many times before it dries.",
-    "word_id": 241
-  },
-  {
-    "word": "platitude",
-    "definition": "a trite or obvious remark",
-    "hint": "“Everything happens for a reason” sounded like a tired platitude.",
-    "word_id": 246
-  },
-  {
-    "word": "plethora",
-    "definition": "extreme excess",
-    "hint": "The buffet offered such a plethora of desserts that guests could not try them all.",
-    "word_id": 247
-  },
-  {
-    "word": "plummet",
-    "definition": "drop sharply",
-    "hint": "Stock prices began to plummet after the company announced the failed merger.",
-    "word_id": 252
-  },
-  {
-    "word": "pragmatic",
-    "definition": "concerned with practical matters",
-    "hint": "Her pragmatic approach focused on what could actually be accomplished with the available budget.",
-    "word_id": 262
-  },
-  {
-    "word": "precarious",
-    "definition": "not secure; beset with difficulties",
-    "hint": "The bridge was in a precarious condition after years without maintenance.",
-    "word_id": 272
-  },
-  {
-    "word": "precipitate",
-    "definition": "bring about abruptly",
-    "hint": "The sudden announcement helped precipitate a change in company policy.",
-    "word_id": 277
-  },
-  {
-    "word": "precursor",
-    "definition": "something indicating the approach of something or someone",
-    "hint": "A sudden rise in small tremors was a precursor to the larger earthquake that followed.",
-    "word_id": 282
-  },
-  {
-    "word": "presumptuous",
-    "definition": "going beyond what is appropriate, permitted, or courteous",
-    "hint": "It was presumptuous of him to demand a personal favor from someone he had just met.",
-    "word_id": 287
-  },
-  {
-    "word": "prevaricate",
-    "definition": "be deliberately ambiguous or unclear",
-    "hint": "When reporters asked for a yes-or-no answer, the politician chose to prevaricate.",
-    "word_id": 292
-  },
-  {
-    "word": "pristine",
-    "definition": "immaculately clean and unused",
-    "hint": "The museum displayed the newly discovered manuscript in pristine condition.",
-    "word_id": 297
-  },
-  {
-    "word": "probity",
-    "definition": "complete and confirmed integrity",
-    "hint": "The judge was respected for his probity and refusal to accept bribes.",
-    "word_id": 302
-  },
-  {
-    "word": "problematic",
-    "definition": "making great mental demands",
-    "hint": "The professor found the advanced proof problematic because it required several difficult assumptions.",
-    "word_id": 307
-  },
-  {
-    "word": "prodigal",
-    "definition": "recklessly wasteful",
-    "hint": "His prodigal spending left him with almost no savings despite earning a high salary.",
-    "word_id": 312
-  },
-  {
-    "word": "proliferate",
-    "definition": "grow rapidly",
-    "hint": "Online misinformation can proliferate when people share sensational stories without checking them.",
-    "word_id": 327
-  },
-  {
-    "word": "propensity",
-    "definition": "a natural inclination",
-    "hint": "She has a strong propensity toward mathematics and solves puzzles for fun.",
-    "word_id": 331
-  },
-  {
-    "word": "propitiate",
-    "definition": "make peace with",
-    "hint": "The diplomat offered concessions in an attempt to propitiate the angry officials.",
-    "word_id": 248
-  },
-  {
-    "word": "propriety",
-    "definition": "correct behavior",
-    "hint": "The diplomats maintained perfect propriety throughout the tense negotiations.",
-    "word_id": 253
-  },
-  {
-    "word": "proscribe",
-    "definition": "command against",
-    "hint": "The law was passed to proscribe the sale of the chemical to private buyers.",
-    "word_id": 258
-  },
-  {
-    "word": "pungent",
-    "definition": "strong and sharp to the sense of taste or smell",
-    "hint": "The curry had a pungent aroma that filled the entire kitchen.",
-    "word_id": 263
-  },
-  {
-    "word": "qualified",
-    "definition": "meeting the proper standards and requirements for a task",
-    "hint": "Only qualified applicants who met every academic requirement were allowed to take the exam.",
-    "word_id": 268
-  },
-  {
-    "word": "quibble",
-    "definition": "evade the truth of a point by raising irrelevant objections",
-    "hint": "Instead of answering the question, the witness began to quibble over minor details.",
-    "word_id": 273
-  },
-  {
-    "word": "quiescent",
-    "definition": "being quiet or still or inactive",
-    "hint": "The lake remained quiescent at dawn, with barely a ripple on its surface.",
+    "hint": "There was an implicit understanding that whoever finished first would help the others.",
     "word_id": 278
   },
   {
-    "word": "rarefied",
-    "definition": "of high moral or intellectual value",
-    "hint": "The retreat was held in a rarefied environment devoted to advanced research and philosophy.",
-    "word_id": 283
-  },
-  {
-    "word": "recalcitrant",
-    "definition": "stubbornly resistant to authority or control",
-    "hint": "The recalcitrant teenager ignored every instruction given by the school administration.",
-    "word_id": 288
-  },
-  {
-    "word": "recant",
-    "definition": "formally reject or disavow a formerly held belief",
-    "hint": "The politician was forced to recant the controversial remarks made by an aide.",
-    "word_id": 293
-  },
-  {
-    "word": "recondite",
-    "definition": "difficult to understand",
-    "hint": "The professor’s explanation was so recondite that even advanced students needed to reread it.",
-    "word_id": 303
-  },
-  {
-    "word": "refractory",
-    "definition": "stubbornly resistant to authority or control",
-    "hint": "The refractory teenager ignored every instruction given by the school administration.",
-    "word_id": 308
-  },
-  {
-    "word": "refute",
-    "definition": "overthrow by argument, evidence, or proof",
-    "hint": "The new experiment helped refute the earlier theory.",
-    "word_id": 313
-  },
-  {
-    "word": "relegate",
-    "definition": "assign to a lower position",
-    "hint": "After repeated mistakes, the player was relegate to the reserve team.",
-    "word_id": 318
-  },
-  {
-    "word": "reproach",
-    "definition": "express criticism towards",
-    "hint": "The editor used the final paragraph to reproach the company for misleading customers.",
-    "word_id": 323
-  },
-  {
-    "word": "reprobate",
-    "definition": "a person without moral scruples",
-    "hint": "The novel’s villain is a charming but completely reprobate businessman.",
-    "word_id": 328
-  },
-  {
-    "word": "repudiate",
-    "definition": "refuse to acknowledge, ratify, or recognize as valid",
-    "hint": "The board voted to repudiate the agreement after discovering that it had been signed under false pretenses.",
-    "word_id": 332
-  },
-  {
-    "word": "rescind",
-    "definition": "cancel officially",
-    "hint": "The agency voted to rescind the outdated regulation.",
-    "word_id": 249
-  },
-  {
-    "word": "resolution",
-    "definition": "a decision to do something or to behave in a certain manner",
-    "hint": "The article described a situation that matched this description: resolution.",
-    "word_id": 254
-  },
-  {
-    "word": "reticent",
-    "definition": "reluctant to draw attention to yourself",
-    "hint": "The usually reticent scientist avoided interviews and let the research speak for itself.",
-    "word_id": 264
-  },
-  {
-    "word": "reverent",
-    "definition": "feeling or showing profound respect or veneration",
-    "hint": "The students spoke in a reverent tone when discussing their former teacher.",
-    "word_id": 269
-  },
-  {
-    "word": "sage",
-    "definition": "a mentor in spiritual and philosophical topics",
-    "hint": "The young student sought advice from a respected sage who had spent decades studying ethics.",
-    "word_id": 274
-  },
-  {
-    "word": "salubrious",
-    "definition": "promoting health",
-    "hint": "The mountain air was considered especially salubrious for people recovering from respiratory illness.",
+    "word": "inconsequential",
+    "definition": "of little importance or significance",
+    "hint": "Most of the changes to the report were minor and inconsequential.",
     "word_id": 279
   },
   {
-    "word": "sanction",
-    "definition": "official permission or approval",
-    "hint": "The construction project could not begin until the regulator granted official sanction.",
-    "word_id": 284
-  },
-  {
-    "word": "satiate",
-    "definition": "fill to satisfaction",
-    "hint": "After the large meal, everyone was fully satiate and did not want dessert.",
-    "word_id": 289
-  },
-  {
-    "word": "saturate",
-    "definition": "infuse or fill completely",
-    "hint": "The sponge quickly became saturate with water.",
-    "word_id": 294
-  },
-  {
-    "word": "secrete",
-    "definition": "generate and separate from cells or bodily fluids",
-    "hint": "Certain glands secrete hormones directly into the bloodstream.",
-    "word_id": 304
-  },
-  {
-    "word": "shard",
-    "definition": "a broken piece of a brittle artifact",
-    "hint": "The archaeologist found a pottery shard near the ancient wall.",
-    "word_id": 309
-  },
-  {
-    "word": "skeptic",
-    "definition": "someone who habitually doubts accepted beliefs",
-    "hint": "As a skeptic, she asked for evidence before accepting the surprising claim.",
-    "word_id": 314
-  },
-  {
-    "word": "solicitous",
-    "definition": "full of anxiety and concern",
-    "hint": "The nurse was solicitous about the patient and checked on him repeatedly.",
-    "word_id": 319
-  },
-  {
-    "word": "soporific",
-    "definition": "inducing sleep",
-    "hint": "The doctor warned that the medicine could have a soporific effect.",
-    "word_id": 324
-  },
-  {
-    "word": "specious",
-    "definition": "plausible but false",
-    "hint": "The advertisement made a specious claim that sounded scientific but had no evidence behind it.",
-    "word_id": 329
-  },
-  {
-    "word": "spectrum",
-    "definition": "a broad range of related objects, values, or qualities",
-    "hint": "The exhibition covered a broad spectrum of artistic styles from realism to abstraction.",
-    "word_id": 333
-  },
-  {
-    "word": "sporadic",
-    "definition": "recurring in scattered or unpredictable instances",
-    "hint": "Rainfall has been sporadic this year, with long dry spells interrupted by sudden storms.",
-    "word_id": 250
-  },
-  {
-    "word": "stigma",
-    "definition": "a symbol of disgrace or infamy",
-    "hint": "The article described a situation that matched this description: stigma.",
-    "word_id": 255
-  },
-  {
-    "word": "stint",
-    "definition": "supply sparingly and with restricted quantities",
-    "hint": "During the drought, the authorities had to stint water to households.",
-    "word_id": 260
-  },
-  {
-    "word": "stipulate",
-    "definition": "make an express demand or provision in an agreement",
-    "hint": "The contract stipulate that all payments must be made within thirty days.",
-    "word_id": 265
-  },
-  {
-    "word": "stolid",
-    "definition": "having or revealing little emotion or sensibility",
-    "hint": "Even when the audience gasped, the detective remained completely stolid and continued taking notes.",
-    "word_id": 270
-  },
-  {
-    "word": "striate",
-    "definition": "marked with stripes",
-    "hint": "Under the microscope, the rock showed thin lines that striate its surface.",
-    "word_id": 275
-  },
-  {
-    "word": "strut",
-    "definition": "walk in a proud, confident way",
-    "hint": "He entered the room with a theatrical strut that made everyone look up.",
+    "word": "indeterminate",
+    "definition": "not exactly known, established, or decided; vague",
+    "hint": "The cause of the fire remained indeterminate even after months of investigation.",
     "word_id": 280
   },
   {
-    "word": "subpoena",
-    "definition": "a writ issued to compel the attendance of a witness",
-    "hint": "The court issued a subpoena requiring the witness to appear and testify.",
-    "word_id": 285
-  },
-  {
-    "word": "substantiate",
-    "definition": "establish or strengthen as with new evidence or facts",
-    "hint": "The researchers needed additional data to substantiate their surprising claim.",
-    "word_id": 295
-  },
-  {
-    "word": "supersede",
-    "definition": "take the place or move into the position of",
-    "hint": "Digital payments have begun to supersede cash for many everyday purchases.",
-    "word_id": 300
-  },
-  {
-    "word": "supposition",
-    "definition": "the cognitive process of conjecturing",
-    "hint": "Without direct evidence, the explanation remained a mere supposition about what might have happened.",
-    "word_id": 305
-  },
-  {
-    "word": "tacit",
-    "definition": "implied by or inferred from actions or statements",
-    "hint": "Although no one said it aloud, there was a tacit agreement that the meeting was over.",
-    "word_id": 310
-  },
-  {
-    "word": "tangential",
-    "definition": "of superficial relevance if any",
-    "hint": "His comment about the restaurant was tangential to the discussion of climate policy.",
-    "word_id": 315
-  },
-  {
-    "word": "tenuous",
-    "definition": "lacking substance or significance",
-    "hint": "The evidence for the theory was so tenuous that few researchers found it convincing.",
-    "word_id": 320
-  },
-  {
-    "word": "tirade",
-    "definition": "a speech of violent denunciation",
-    "hint": "The politician ended the debate with an angry tirade against his opponents.",
-    "word_id": 325
-  },
-  {
-    "word": "torpor",
-    "definition": "a state of motor and mental inactivity",
-    "hint": "After taking the medication, he slipped into a state of torpor and barely moved.",
-    "word_id": 330
-  },
-  {
-    "word": "tortuous",
-    "definition": "marked by repeated turns and bends",
-    "hint": "The hikers followed a tortuous mountain road that twisted around the cliffs.",
-    "word_id": 334
-  },
-  {
-    "word": "tractable",
-    "definition": "easily managed",
-    "hint": "The new software is simple and tractable, even for inexperienced users.",
-    "word_id": 251
-  },
-  {
-    "word": "transgression",
-    "definition": "the violation of a law or a duty or moral principle",
-    "hint": "The judge described the theft as a serious transgression of public trust.",
-    "word_id": 256
-  },
-  {
-    "word": "truculent",
-    "definition": "defiantly aggressive",
-    "hint": "The normally calm negotiator became truculent when the other side refused to compromise.",
-    "word_id": 339
-  },
-  {
-    "word": "vacillate",
-    "definition": "be undecided about something",
-    "hint": "He continued to vacillate between accepting the job and staying where he was.",
-    "word_id": 266
-  },
-  {
-    "word": "venerate",
-    "definition": "regard with feelings of respect and reverence",
-    "hint": "Many generations continue to venerate the poet as a national treasure.",
-    "word_id": 271
-  },
-  {
-    "word": "veracious",
-    "definition": "habitually speaking the truth",
-    "hint": "Her reputation as a veracious witness made the jury more willing to trust her testimony.",
-    "word_id": 276
-  },
-  {
-    "word": "verbose",
-    "definition": "using or containing too many words",
-    "hint": "The report was accurate but unnecessarily verbose, repeating the same point in several sections.",
+    "word": "intractable",
+    "definition": "hard to control or deal with; difficult to solve",
+    "hint": "Poverty remains one of the most intractable problems facing the region.",
     "word_id": 281
   },
   {
-    "word": "viable",
-    "definition": "capable of life or normal growth and development",
-    "hint": "The biologists debated whether the damaged plant was still viable or beyond recovery.",
+    "word": "lavish",
+    "definition": "sumptuously rich, elaborate, or luxurious; giving generously",
+    "hint": "The wedding featured a lavish reception with a live orchestra and ten-course meal.",
+    "word_id": 282
+  },
+  {
+    "word": "loquacious",
+    "definition": "tending to talk a great deal; very talkative",
+    "hint": "The loquacious tour guide gave far more detail than anyone had asked for.",
+    "word_id": 283
+  },
+  {
+    "word": "nascent",
+    "definition": "just coming into existence; beginning to develop",
+    "hint": "The nascent industry attracted a wave of eager young investors.",
+    "word_id": 284
+  },
+  {
+    "word": "onerous",
+    "definition": "involving a heavy burden; troublesome and difficult",
+    "hint": "The onerous paperwork required for the visa took weeks to complete.",
+    "word_id": 285
+  },
+  {
+    "word": "opprobrium",
+    "definition": "harsh public criticism or disgrace",
+    "hint": "The senator faced widespread opprobrium after the leaked recordings surfaced.",
     "word_id": 286
   },
   {
-    "word": "viscous",
-    "definition": "having a relatively high resistance to flow",
-    "hint": "Honey is more viscous than water and therefore pours much more slowly.",
+    "word": "overt",
+    "definition": "done or shown openly; not hidden",
+    "hint": "The protest was an overt act of defiance against the new law.",
+    "word_id": 287
+  },
+  {
+    "word": "paradox",
+    "definition": "a statement or situation that seems contradictory but may be true",
+    "hint": "It's a strange paradox that the more choices we have, the less satisfied we often feel.",
+    "word_id": 288
+  },
+  {
+    "word": "partisan",
+    "definition": "strongly supporting a particular party, cause, or person, often blindly",
+    "hint": "The debate quickly turned partisan, with neither side willing to compromise.",
+    "word_id": 289
+  },
+  {
+    "word": "plethora",
+    "definition": "a large or excessive amount of something",
+    "hint": "The new employee was overwhelmed by the plethora of forms she had to fill out.",
+    "word_id": 290
+  },
+  {
+    "word": "propriety",
+    "definition": "the state of conforming to conventionally accepted standards of behavior",
+    "hint": "She questioned the propriety of accepting gifts from clients.",
     "word_id": 291
   },
   {
-    "word": "vituperative",
-    "definition": "marked by harshly abusive criticism",
-    "hint": "The review was so vituperative that it seemed designed to insult rather than evaluate the film.",
+    "word": "tacit",
+    "definition": "understood or implied without being stated directly",
+    "hint": "There was a tacit agreement among the neighbors not to mow their lawns before 9 a.m.",
+    "word_id": 292
+  },
+  {
+    "word": "tangential",
+    "definition": "only slightly relevant to the main topic",
+    "hint": "His comment felt tangential to the discussion and derailed the meeting.",
+    "word_id": 293
+  },
+  {
+    "word": "tenuous",
+    "definition": "very weak or slight; barely sufficient",
+    "hint": "The evidence linking the two suspects was tenuous at best.",
+    "word_id": 294
+  },
+  {
+    "word": "veracity",
+    "definition": "conformity to facts; truthfulness or accuracy",
+    "hint": "Reporters questioned the veracity of the official's claims.",
+    "word_id": 295
+  },
+  {
+    "word": "verbose",
+    "definition": "using or containing more words than necessary",
+    "hint": "His verbose emails often buried the important point in three paragraphs of filler.",
     "word_id": 296
   },
   {
     "word": "volatile",
-    "definition": "liable to lead to sudden change or violence",
-    "hint": "The situation remained volatile, with prices changing dramatically from hour to hour.",
-    "word_id": 301
-  },
-  {
-    "word": "warrant",
-    "definition": "formal and explicit approval",
-    "hint": "The unusual circumstances did not warrant such a severe punishment.",
-    "word_id": 340
+    "definition": "liable to change rapidly and unpredictably",
+    "hint": "The volatile stock market made investors nervous about their retirement savings.",
+    "word_id": 297
   },
   {
     "word": "wary",
-    "definition": "marked by keen caution and watchful prudence",
-    "hint": "Investors remained wary after the market’s sudden decline.",
+    "definition": "feeling or showing caution about possible dangers or problems",
+    "hint": "She remained wary of the stranger's overly friendly offer.",
+    "word_id": 298
+  },
+  {
+    "word": "zealous",
+    "definition": "having or showing great energy or enthusiasm in pursuit of a cause",
+    "hint": "The zealous volunteer showed up an hour early to help set up every single event.",
+    "word_id": 299
+  },
+  {
+    "word": "anomaly",
+    "definition": "something that deviates from what is standard or expected",
+    "hint": "The astronomer noticed an anomaly in the star's brightness that didn't match any known pattern.",
+    "word_id": 300
+  },
+  {
+    "word": "antipathy",
+    "definition": "a deep-seated feeling of dislike or hostility",
+    "hint": "There was a long-standing antipathy between the two rival companies.",
+    "word_id": 301
+  },
+  {
+    "word": "appease",
+    "definition": "to pacify or placate someone by giving in to their demands",
+    "hint": "The manager offered a discount to appease the angry customer.",
+    "word_id": 302
+  },
+  {
+    "word": "arduous",
+    "definition": "involving strenuous effort; difficult and tiring",
+    "hint": "The arduous climb to the summit took nearly twelve hours.",
+    "word_id": 303
+  },
+  {
+    "word": "askance",
+    "definition": "with a look of suspicion or disapproval",
+    "hint": "Her colleagues looked askance at her sudden change of heart on the project.",
+    "word_id": 304
+  },
+  {
+    "word": "banality",
+    "definition": "the quality of being boringly ordinary or unoriginal",
+    "hint": "The banality of the small talk made the long flight feel even longer.",
+    "word_id": 305
+  },
+  {
+    "word": "bolster",
+    "definition": "to support or strengthen something",
+    "hint": "New sales figures helped bolster the company's confidence going into next quarter.",
+    "word_id": 306
+  },
+  {
+    "word": "capricious",
+    "definition": "given to sudden and unaccountable changes of mood or behavior",
+    "hint": "The capricious weather made it impossible to plan the outdoor wedding.",
+    "word_id": 307
+  },
+  {
+    "word": "contrition",
+    "definition": "the state of feeling remorseful and penitent",
+    "hint": "His public apology showed genuine contrition for the harm he had caused.",
+    "word_id": 308
+  },
+  {
+    "word": "craven",
+    "definition": "lacking courage; cowardly",
+    "hint": "His craven refusal to defend his colleague disappointed the entire team.",
+    "word_id": 309
+  },
+  {
+    "word": "deleterious",
+    "definition": "causing harm or damage",
+    "hint": "Excessive screen time can have a deleterious effect on children's sleep patterns.",
+    "word_id": 310
+  },
+  {
+    "word": "dilatory",
+    "definition": "slow to act; intended to cause delay",
+    "hint": "The dilatory response from the insurance company frustrated the accident victims.",
     "word_id": 311
   },
   {
-    "word": "welter",
-    "definition": "a confused multitude of things",
-    "hint": "The archive contained a confusing welter of notes, letters, receipts, and photographs.",
+    "word": "dispassionate",
+    "definition": "not influenced by strong emotion; rational and impartial",
+    "hint": "The judge gave a dispassionate assessment of the evidence before ruling.",
+    "word_id": 312
+  },
+  {
+    "word": "disseminate",
+    "definition": "to spread information widely",
+    "hint": "The organization used social media to disseminate updates during the crisis.",
+    "word_id": 313
+  },
+  {
+    "word": "duress",
+    "definition": "threats or pressure used to coerce someone into doing something",
+    "hint": "He signed the confession under duress, after hours of aggressive questioning.",
+    "word_id": 314
+  },
+  {
+    "word": "economical",
+    "definition": "giving good value or return in relation to money or effort spent",
+    "hint": "The hybrid car proved far more economical than her old gas-guzzling sedan.",
+    "word_id": 315
+  },
+  {
+    "word": "edifying",
+    "definition": "providing moral or intellectual instruction; enlightening",
+    "hint": "The documentary was both entertaining and edifying, teaching viewers about ocean ecosystems.",
     "word_id": 316
   },
   {
-    "word": "whimsical",
-    "definition": "determined by chance or impulse rather than by necessity",
-    "hint": "The CEO made a whimsical decision to launch the product early simply because she felt like it.",
+    "word": "efficacious",
+    "definition": "successful in producing a desired or intended result",
+    "hint": "The new treatment proved highly efficacious in reducing patients' symptoms.",
+    "word_id": 317
+  },
+  {
+    "word": "elicit",
+    "definition": "to draw out a response or reaction",
+    "hint": "The comedian's opening joke elicited laughter from the entire audience.",
+    "word_id": 318
+  },
+  {
+    "word": "erudite",
+    "definition": "having or showing great knowledge or learning",
+    "hint": "Her erudite lecture on Byzantine history impressed even the seasoned professors.",
+    "word_id": 319
+  },
+  {
+    "word": "esoteric",
+    "definition": "intended for or understood by only a small, specialized group",
+    "hint": "The seminar covered esoteric topics in quantum physics that few outside the field could follow.",
+    "word_id": 320
+  },
+  {
+    "word": "fastidious",
+    "definition": "very attentive to detail and hard to please; meticulous",
+    "hint": "The fastidious editor caught even the smallest typo in the manuscript.",
     "word_id": 321
   },
   {
-    "word": "zealot",
-    "definition": "a fervent and even militant proponent of something",
-    "hint": "He became a fierce zealot of the reform and defended it at every meeting.",
+    "word": "flux",
+    "definition": "continuous change or movement; a state of instability",
+    "hint": "The company's strategy remained in flux as new leadership took over each year.",
+    "word_id": 322
+  },
+  {
+    "word": "furtive",
+    "definition": "attempting to avoid notice or attention; secretive",
+    "hint": "She cast a furtive glance at her phone during the meeting, hoping no one noticed.",
+    "word_id": 323
+  },
+  {
+    "word": "harried",
+    "definition": "feeling strained as a result of having demands persistently made on one",
+    "hint": "The harried mother juggled three kids, two jobs, and no free time.",
+    "word_id": 324
+  },
+  {
+    "word": "ignominious",
+    "definition": "deserving or causing public disgrace or shame",
+    "hint": "The team suffered an ignominious defeat, losing by forty points at home.",
+    "word_id": 325
+  },
+  {
+    "word": "impartial",
+    "definition": "treating all sides equally; not favoring one side over another",
+    "hint": "As a referee, he had to remain impartial no matter which team the crowd favored.",
     "word_id": 326
   },
   {
-    "word": "peregrination",
-    "definition": "traveling or wandering around",
-    "hint": "After years of peregrination across Asia and Europe, he finally settled in a small coastal town.",
-    "word_id": 341
+    "word": "imprudent",
+    "definition": "not showing care for the consequences of an action; unwise",
+    "hint": "Investing his entire savings in a single stock was an imprudent decision.",
+    "word_id": 327
   },
   {
-    "word": "colloquy",
-    "definition": "formal conversation",
-    "hint": "The two philosophers engaged in a lengthy colloquy about whether technology improves human life.",
-    "word_id": 342
+    "word": "indecorous",
+    "definition": "not in keeping with good taste or propriety",
+    "hint": "His indecorous jokes at the formal dinner made several guests uncomfortable.",
+    "word_id": 328
+  },
+  {
+    "word": "jovial",
+    "definition": "cheerful and friendly",
+    "hint": "The jovial host greeted every guest with a warm handshake and a joke.",
+    "word_id": 329
+  },
+  {
+    "word": "maladroit",
+    "definition": "clumsy; lacking skill, especially in social situations",
+    "hint": "His maladroit attempt at flattery only made the conversation more awkward.",
+    "word_id": 330
+  },
+  {
+    "word": "maverick",
+    "definition": "an unorthodox or independent-minded person",
+    "hint": "The maverick engineer ignored convention and built the bridge using an untested design.",
+    "word_id": 331
+  },
+  {
+    "word": "mendacity",
+    "definition": "the tendency to lie or be untruthful",
+    "hint": "The politician's history of mendacity made voters distrust even his true statements.",
+    "word_id": 332
+  },
+  {
+    "word": "misconstrue",
+    "definition": "to interpret a statement or action wrongly",
+    "hint": "She worried her joke had been misconstrued as a genuine insult.",
+    "word_id": 333
+  },
+  {
+    "word": "mundane",
+    "definition": "lacking interest or excitement; ordinary",
+    "hint": "After the thrill of travel, returning to mundane office work felt like a letdown.",
+    "word_id": 334
+  },
+  {
+    "word": "nonplussed",
+    "definition": "so surprised or confused that one doesn't know how to react",
+    "hint": "He stood nonplussed when his usually reliable car simply refused to start.",
+    "word_id": 335
+  },
+  {
+    "word": "nuance",
+    "definition": "a subtle difference or distinction in meaning, expression, or tone",
+    "hint": "The translator worked hard to preserve every nuance of the original poem.",
+    "word_id": 336
+  },
+  {
+    "word": "opulence",
+    "definition": "great wealth or luxuriousness",
+    "hint": "The palace's opulence was evident in its gold-trimmed ceilings and silk curtains.",
+    "word_id": 337
+  },
+  {
+    "word": "pejorative",
+    "definition": "expressing contempt or disapproval; derogatory",
+    "hint": "The word was once neutral but has since taken on a pejorative meaning.",
+    "word_id": 338
+  },
+  {
+    "word": "placate",
+    "definition": "to make someone less angry or hostile",
+    "hint": "The airline offered vouchers to placate the passengers stranded by the delay.",
+    "word_id": 339
   },
   {
     "word": "polemic",
-    "definition": "a verbal or written attack, especially of a belief or dogma",
-    "hint": "The newspaper published a fierce polemic attacking the government's new education policy.",
+    "definition": "a strong verbal or written attack on someone's opinions or principles",
+    "hint": "His essay was less a balanced analysis than a polemic against modern architecture.",
+    "word_id": 340
+  },
+  {
+    "word": "posit",
+    "definition": "to put forward an idea or theory for consideration",
+    "hint": "The researchers posit that the decline in bee populations is linked to pesticide use.",
+    "word_id": 341
+  },
+  {
+    "word": "rebuke",
+    "definition": "to express sharp disapproval or criticism",
+    "hint": "The coach publicly rebuked the player for missing practice without notice.",
+    "word_id": 342
+  },
+  {
+    "word": "reproach",
+    "definition": "to express disapproval or disappointment toward someone",
+    "hint": "She reproached herself for not speaking up sooner about the problem.",
     "word_id": 343
   },
   {
-    "word": "insidious",
-    "definition": "working or spreading in a hidden and usually injurious way",
-    "hint": "The disease was insidious, spreading quietly for months before doctors detected any obvious symptoms.",
+    "word": "specious",
+    "definition": "having the appearance of being true, but actually false; misleading",
+    "hint": "His specious reasoning convinced a few people, but it fell apart under scrutiny.",
     "word_id": 344
   },
   {
-    "word": "scurrilous",
-    "definition": "expressing offensive, insulting, or scandalous criticism",
-    "hint": "The candidate condemned the opponent's scurrilous remarks as insulting and completely unfounded.",
+    "word": "stringent",
+    "definition": "strict, precise, and exacting",
+    "hint": "The lab enforces stringent safety protocols for handling hazardous chemicals.",
     "word_id": 345
+  },
+  {
+    "word": "sullen",
+    "definition": "bad-tempered and sulky; gloomy",
+    "hint": "The teenager gave only sullen, one-word answers at the dinner table.",
+    "word_id": 346
+  },
+  {
+    "word": "timorous",
+    "definition": "showing timidity or fearfulness",
+    "hint": "The timorous new hire barely spoke during her first week of meetings.",
+    "word_id": 347
+  },
+  {
+    "word": "transient",
+    "definition": "lasting only for a short time; temporary",
+    "hint": "The joy of winning the lottery proved transient once the money ran out.",
+    "word_id": 348
+  },
+  {
+    "word": "truncate",
+    "definition": "to shorten something by cutting off part of it",
+    "hint": "The editor had to truncate the article to fit the available space.",
+    "word_id": 349
   }
 ]
