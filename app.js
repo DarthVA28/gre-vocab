@@ -94,7 +94,7 @@ function buildSession(type) {
   if(type==='new') pool = pool.filter(w=>currentStatus(w.word_id)==='new');
   if(!pool.length) { showToast(`No ${type} words left.`); return false; }
   // Shuffle and cap the session so it feels like a session rather than one giant deck.
-  pool=pool.slice().sort(()=>Math.random()-0.5).slice(0,10);
+  if(type==='new') pool=pool.slice().sort(()=>Math.random()-0.5).slice(0,10);
   sessionWords=pool; sessionIndex=0; renderWord(); showView('practiceView'); return true;
 }
 function renderWord() {
