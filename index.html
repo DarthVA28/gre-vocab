@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GRE Vocab Trainer</title>
+  <meta name="description" content="Context-first GRE vocabulary practice.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button id="brandBtn" class="brand" aria-label="Go to dashboard">
+        <span class="brand-mark">G</span>
+        <span>GRE Vocab</span>
+      </button>
+      <div id="userMenu" class="user-menu hidden">
+        <span id="userNameLabel"></span>
+        <button id="logoutBtn" class="ghost-btn">Log out</button>
+      </div>
+    </header>
+
+    <main>
+      <section id="authView" class="view auth-view">
+        <div class="auth-card">
+          <h1>GRE Vocab</h1>
+
+          <div class="auth-tabs">
+            <button class="tab active" data-auth="login">Log in</button>
+            <button class="tab" data-auth="signup">Create account</button>
+          </div>
+
+          <form id="authForm" class="auth-form">
+            <label id="usernameField">
+              Username
+              <input id="usernameInput" autocomplete="username" minlength="2" maxlength="30" pattern="[A-Za-z0-9_.-]+" placeholder="e.g. ananya" />
+            </label>
+            <label id="emailField">
+              Email
+              <input id="emailInput" type="email" autocomplete="email" required placeholder="you@example.com" />
+            </label>
+            <label>
+              Password
+              <input id="passwordInput" type="password" autocomplete="current-password" required minlength="6" placeholder="At least 6 characters" />
+            </label>
+            <button id="authSubmit" class="primary-btn wide" type="submit">Log in</button>
+            <p id="authMessage" class="form-message" role="status"></p>
+          </form>
+        </div>
+      </section>
+
+      <section id="dashboardView" class="view hidden">
+        <div class="page-head">
+          <div>
+            <h2>GRE Vocabulary</h2>
+          </div>
+          <button id="browseBtn" class="secondary-btn">Browse all words</button>
+        </div>
+
+        <div class="stats-grid">
+          <button class="stat-card new" data-start="new">
+            <span class="stat-label">New</span>
+            <strong id="newCount">0</strong>
+          </button>
+          <button class="stat-card review" data-start="review">
+            <span class="stat-label">Review</span>
+            <strong id="reviewCount">0</strong>
+          </button>
+          <button class="stat-card confident" data-start="confident">
+            <span class="stat-label">Confident</span>
+            <strong id="confidentCount">0</strong>
+          </button>
+        </div>
+
+        <div class="action-grid">
+          <button class="large-action" data-start="new">
+            <span class="action-icon">↗</span>
+            <span><strong>Learn new words</strong></span>
+          </button>
+          <button class="large-action" data-start="review">
+            <span class="action-icon">↻</span>
+            <span><strong>Review words</strong></span>
+          </button>
+          <button class="large-action" data-start="confident">
+            <span class="action-icon">✓</span>
+            <span><strong>Practice confident</strong></span>
+          </button>
+        </div>
+      </section>
+
+      <section id="practiceView" class="view hidden">
+        <div class="practice-head">
+          <button id="practiceBack" class="back-btn">← Dashboard</button>
+          <div class="session-meta"><span id="practiceLabel">New words</span><span id="progressLabel">1 / 10</span></div>
+        </div>
+
+        <div class="progress-track"><div id="sessionProgress" class="progress-bar"></div></div>
+
+        <article class="word-card">
+          <div class="word-topline"><span id="wordNumber">WORD 1</span><span id="wordStatusPill" class="status-pill new">NEW</span></div>
+          <div id="wordText" class="word">abate</div>
+          <blockquote id="hintText" class="hint hidden"></blockquote>
+          <div id="answerArea" class="answer-area hidden">
+            <div class="meaning-label">Meaning</div>
+            <p id="meaningText" class="meaning"></p>
+          </div>
+          <div class="reveal-actions">
+            <button id="showHintBtn" class="primary-btn reveal-btn">Show hint</button>
+            <button id="showMeaningBtn" class="primary-btn reveal-btn">Show meaning</button>
+          </div>
+          <div id="pileButtons" class="pile-buttons hidden"></div>
+        </article>
+      </section>
+
+      <section id="browseView" class="view hidden">
+        <div class="page-head compact">
+          <div>
+            <div class="eyebrow">Word bank</div>
+            <h2>All <em id="browseCount">305</em> words</h2>
+          </div>
+          <button id="browseBack" class="back-btn">← Dashboard</button>
+        </div>
+        <div class="browse-tools">
+          <input id="searchInput" class="search-input" placeholder="Search a word…" autocomplete="off">
+          <select id="statusFilter" class="filter-select">
+            <option value="all">All words</option>
+            <option value="new">New</option>
+            <option value="review">Review</option>
+            <option value="confident">Confident</option>
+          </select>
+        </div>
+        <div id="wordList" class="word-list"></div>
+      </section>
+
+      <section id="setupView" class="view hidden">
+        <div class="setup-card">
+          <div class="eyebrow">One-time setup</div>
+          <h2>Connect your Supabase project.</h2>
+          <p>This site is static and stores progress in Supabase. Add your project URL and publishable key to <code>config.js</code>, then reload.</p>
+          <div class="code-box">window.GRE_CONFIG = {<br>&nbsp;&nbsp;supabaseUrl: "https://YOUR-PROJECT.supabase.co",<br>&nbsp;&nbsp;supabaseKey: "YOUR-PUBLISHABLE-KEY"<br>};</div>
+          <button id="setupReadmeBtn" class="secondary-btn">Open setup guide</button>
+        </div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
