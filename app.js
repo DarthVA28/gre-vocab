@@ -21,7 +21,11 @@ function counts() {
   return { confident, review, new: words.length-confident-review };
 }
 function updateDashboard() {
-  const c=counts(); $('newCount').textContent=c.new; $('reviewCount').textContent=c.review; $('confidentCount').textContent=c.confident; $('wordBankCount').textContent=words.length;
+  const c = counts();
+  if ($('newCount')) $('newCount').textContent = c.new;
+  if ($('reviewCount')) $('reviewCount').textContent = c.review;
+  if ($('confidentCount')) $('confidentCount').textContent = c.confident;
+  if ($('wordBankCount')) $('wordBankCount').textContent = words.length;
 }
 
 async function loadWords() {
